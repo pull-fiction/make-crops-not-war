@@ -345,3 +345,5 @@ tags
 .history
 
 # End of https://www.gitignore.io/api/jupyternotebooks,vim,visualstudiocode,pycharm,python
+
+.vscode/
