@@ -5,20 +5,25 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 
 endpoint_url = "https://query.wikidata.org/sparql"
 
-query = """SELECT DISTINCT ?armed_conflictLabel ?start_time ?end_time ?participantLabel ?countryWarLabel ?locationLabel
+query = """
+SELECT DISTINCT ?armed_conflictLabel ?start_year ?end_year ?participantLabel ?countryWarLabel ?locationLabel
 {
   # Get all the armed conflicts
+  # (wdt:P31/wdt:P279*) means instance of
+  # wd:Q350604 is armed conflict
   ?armed_conflict (wdt:P31/wdt:P279*)  wd:Q350604;
                    wdt:P580 ?start_time;
                    wdt:P710 ?participant.
   
   OPTIONAL { ?armed_conflict wdt:P582 ?end_time. }
+  
   # Get start and end years
   BIND(YEAR(?start_time) AS ?start_year) hint:Prior hint:rangeSafe true.
   BIND(YEAR(?end_time) AS ?end_year) hint:Prior hint:rangeSafe true.
   
   # Remove the wars that started before FAOs DB
-  FILTER(?start_year > (1961))
+  FILTER(?start_year >= (1961))
+  
   MINUS {
     ?armed_conflict (wdt:P31/wdt:P279*) wd:Q864113 # exclude if is a proxy war
   }
@@ -31,7 +36,8 @@ query = """SELECT DISTINCT ?armed_conflictLabel ?start_time ?end_time ?participa
   
   
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
-}"""
+}
+"""
 
 
 def get_results(endpoint_url, query):
