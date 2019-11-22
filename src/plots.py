@@ -44,3 +44,20 @@ def plot_production_and_war(wars_df, prod_per_year_per_country, country):
     plt.xlabel('year')
     plt.ylabel('total crops production')
     ax.legend()
+    
+    
+def plot_animals_and_war(wars_df, animals_per_year_per_country, country):
+    
+    country_animals_war = country_in_war(wars_df, animals_per_year_per_country, country)
+
+
+    country_animals_war['war_value'] = np.where(country_animals_war['in_war'], country_animals_war['value'], np.NaN)
+    country_animals_war['non_war_value'] = np.where(~country_animals_war['in_war'], country_animals_war['value'], np.NaN)
+
+    f, ax = plt.subplots(1, 1, figsize=(10, 5))
+    plt.title(f'Total population of animals in {country}')
+    ax.plot_date(country_animals_war['year'], country_animals_war['war_value'], color='red', label='war years', linestyle="-", xdate=True)
+    ax.plot_date(country_animals_war['year'], country_animals_war['non_war_value'], color='blue', label='non-war years', linestyle="-", xdate=True)
+    plt.xlabel('year')
+    plt.ylabel('total animal population')
+    ax.legend()
