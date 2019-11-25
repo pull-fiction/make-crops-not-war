@@ -17,7 +17,7 @@ def country_in_war(wars_df, prod_per_year_per_country, country):
             .groupby(['name', 'start_year', 'end_year'])
             .sum()
             .reset_index()
-            .drop('state', axis=1)
+            .drop('is_state', axis=1)
     )
     
     country_crops = (
@@ -29,35 +29,21 @@ def country_in_war(wars_df, prod_per_year_per_country, country):
     
     return country_crops
 
-def plot_production_and_war(wars_df, prod_per_year_per_country, country):
+def plot_feature_and_war(wars_df, merged_data, feature, country):
     
-    country_prod_war = country_in_war(wars_df, prod_per_year_per_country, country)
+ 
+    country_prod_war = country_in_war(wars_df, merged_data, country)
 
 
-    country_prod_war['war_value'] = np.where(country_prod_war['in_war'], country_prod_war['value'], np.NaN)
-    country_prod_war['non_war_value'] = np.where(~country_prod_war['in_war'], country_prod_war['value'], np.NaN)
+    country_prod_war['war_value'] = np.where(country_prod_war['in_war'], country_prod_war['value_' + feature], np.NaN)
+    country_prod_war['non_war_value'] = np.where(~country_prod_war['in_war'], country_prod_war['value_' + feature], np.NaN)
 
     f, ax = plt.subplots(1, 1, figsize=(10, 5))
-    plt.title(f'Total production of crops in {country}')
+    plt.title(f'Total {feature} production in {country}')
     ax.plot_date(country_prod_war['year'], country_prod_war['war_value'], color='red', label='war years', linestyle="-", xdate=True)
     ax.plot_date(country_prod_war['year'], country_prod_war['non_war_value'], color='blue', label='non-war years', linestyle="-", xdate=True)
     plt.xlabel('year')
-    plt.ylabel('total crops production')
+    plt.ylabel(f'total {feature}')
     ax.legend()
     
     
-def plot_animals_and_war(wars_df, animals_per_year_per_country, country):
-    
-    country_animals_war = country_in_war(wars_df, animals_per_year_per_country, country)
-
-
-    country_animals_war['war_value'] = np.where(country_animals_war['in_war'], country_animals_war['value'], np.NaN)
-    country_animals_war['non_war_value'] = np.where(~country_animals_war['in_war'], country_animals_war['value'], np.NaN)
-
-    f, ax = plt.subplots(1, 1, figsize=(10, 5))
-    plt.title(f'Total population of animals in {country}')
-    ax.plot_date(country_animals_war['year'], country_animals_war['war_value'], color='red', label='war years', linestyle="-", xdate=True)
-    ax.plot_date(country_animals_war['year'], country_animals_war['non_war_value'], color='blue', label='non-war years', linestyle="-", xdate=True)
-    plt.xlabel('year')
-    plt.ylabel('total animal population')
-    ax.legend()
