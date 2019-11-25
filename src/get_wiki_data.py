@@ -21,14 +21,14 @@ SELECT DISTINCT ?armed_conflictLabel ?start_year ?end_year ?participantLabel ?co
   BIND(YEAR(?start_time) AS ?start_year) hint:Prior hint:rangeSafe true.
   BIND(YEAR(?end_time) AS ?end_year) hint:Prior hint:rangeSafe true.
   
-  # Remove the wars that started before FAOs DB
-  FILTER(?start_year >= (1961))
+  # Remove not relevant wars
+  FILTER(?start_year >= (1945))
+  # Remove wars that started after FAO DB
+  FILTER(?start_year <= (2017))
+  # Remove the wars that ended before FAO DB
+  FILTER(?end_year >= (1961))
   
-  MINUS {
-    ?armed_conflict (wdt:P31/wdt:P279*) wd:Q864113 # exclude if is a proxy war
-  }
-  
-  ?participant (wdt:P31/wdt:P279*) wd:Q7210356.
+  ?participant (wdt:P31/wdt:P279*) wd:Q7210356 .
   
   # Get the location of the conflict (if present)
   OPTIONAL { ?armed_conflict wdt:P276 [ wdt:P17 ?countryWar]. }
