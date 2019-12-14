@@ -347,3 +347,5 @@ tags
 # End of https://www.gitignore.io/api/jupyternotebooks,vim,visualstudiocode,pycharm,python
 
 .vscode/
+.sass-cache/
+_site/
