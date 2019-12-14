@@ -1,3 +1,4 @@
+# Set theme
 remote_theme: daviddarnes/alembic
 
 # File excludes
@@ -8,25 +9,23 @@ exclude:
 
 # Set plugins
 plugins:
-  - jekyll-sitemap
-  - jekyll-mentions
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-redirect-from
-  - jekyll-default-layout
-  - jekyll-feed
-  - jekyll-commonmark
-  - jekyll-include-cache
-  - jemoji
-  - jekyll-remote-theme
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
 
 # Site settings
-url: 'https://pull-fiction.github.io/'
+url: 'https://pull-fiction.github.io'
 baseurl: '/make-crops-not-war'
 title: 'Make Crops, not War!'
 description: 'ADA 2019 Project data story'
 permalink: pretty
-# logo: ""
+# logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
 # Pagination
 paginate: 5
@@ -34,8 +33,12 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Make Crops, not War!
+- title: Home
   url: /
+- title: About
+  url: /about/
+- title: Blog
+  url: /blog/
 
 # Footer nav
 navigation_footer:
@@ -50,10 +53,4 @@ collections:
     description: "My thoughts and ideas"
     feature_text: |
       Welcome to my blog
-    feature_image: "assets/img/holiday-inn.jpg"
-
-sass:
-  style: compressed # Style compression
-permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
-excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+    feature_image: "https://picsum.photos/2560/600?image=866"
