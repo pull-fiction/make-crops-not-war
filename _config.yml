@@ -21,8 +21,8 @@ plugins:
   - jekyll-remote-theme
 
 # Site settings
-url: 'https://pull-fiction.github.io/make-crops-not-war'
-baseurl: ''
+url: 'https://pull-fiction.github.io/'
+baseurl: 'make-crops-not-war'
 title: 'Make Crops, not War!'
 description: 'ADA 2019 Project data story'
 permalink: pretty
