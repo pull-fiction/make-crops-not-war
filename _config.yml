@@ -1,6 +1,3 @@
-# Set theme
-remote_theme: daviddarnes/alembic
-
 # File excludes
 exclude:
 - README.md
@@ -9,15 +6,16 @@ exclude:
 
 # Set plugins
 plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-default-layout
-- jekyll-feed
-- jemoji
-- jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-default-layout
+  - jekyll-feed
+  - jekyll-commonmark
+  - jekyll-include-cache
+  - jemoji
 
 # Site settings
 url: 'https://pull-fiction.github.io/make-crops-not-war'
@@ -50,3 +48,9 @@ collections:
     feature_text: |
       Welcome to my blog
     feature_image: "assets/img/holiday-inn.jpg"
+
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: Europe/London # Timezone for blog posts and alike
