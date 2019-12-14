@@ -41,24 +41,24 @@ $monospacetype: (
 );
 
 .header {
-    height: 100%;
+  height: 100%;
 }
 
 .feature {
-    height: 100%;
-    background-attachment: fixed !important;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    
-    .container {
-      max-width: 100% !important;
-    }
-    
-    p {
-      font-size: 7.5rem;
-      color: $headingColour;
-    }
+  height: 100%;
+  background-attachment: fixed !important;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  .container {
+    max-width: 100% !important;
+  }
+
+  p {
+    font-size: 7.5rem;
+    color: $headingColour;
+  }
 }
 
 .feature-text {
@@ -71,8 +71,15 @@ $monospacetype: (
   margin-top: 1rem;
 }
 
+.plot {
+  width: 100%;
+  height: 650px;
+  border: none;
+  overflow-y: scroll;
+}
+
 // Font import, if you're using a non-standard web font
-@import url('https://fonts.googleapis.com/css?family=Bitter&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Bitter&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap");
 
 @import "alembic";

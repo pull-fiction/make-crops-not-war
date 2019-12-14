@@ -35,6 +35,8 @@ vixque siccatque caudas.
 - Fit non aetas ire intrepidos filum eligit
 - Adamante auditos nostro verum coiere loco totum
 
+<iframe class="plot" src="assets/plots/war-events.html"></iframe> 
+
 ## Propulit quaerenti refert deposcunt verbisque descenderat voce
 
 *Pellis qui* alto est quos! Illa meta **comes temptat**. Patruo *suum adnuit*,
@@ -45,3 +47,4 @@ Luna pampineis me. Sedent Phoebi odorato labitur, [et iussit
 sic](http://quisquislatronis.com/) admissum nocte moderator nescio non aras
 undique.
 
+<div class="flourish-embed" data-src="visualisation/1089802"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
