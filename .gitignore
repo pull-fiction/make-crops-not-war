@@ -348,3 +348,7 @@ tags
 
 .vscode/
 _site
+
+.sass-cache/3efd48cda5639ff08d703a38d8cadd91fb39bd9b/
+
+*.scssc

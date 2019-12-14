@@ -1,6 +1,5 @@
 # Set theme
 remote_theme: daviddarnes/alembic
-theme: daviddarnes/alembic
 
 # File excludes
 exclude:
@@ -21,8 +20,8 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://pull-fiction.github.io/make-crops-not-war/'
-baseurl: 'https://pull-fiction.github.io/make-crops-not-war/'
+url: 'https://pull-fiction.github.io/make-crops-not-war'
+baseurl: ''
 title: 'Make Crops, not War!'
 description: 'ADA 2019 Project data story'
 permalink: pretty
