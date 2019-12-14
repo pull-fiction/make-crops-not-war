@@ -1,3 +1,5 @@
+remote_theme: daviddarnes/alembic
+
 # File excludes
 exclude:
 - README.md
@@ -16,6 +18,7 @@ plugins:
   - jekyll-commonmark
   - jekyll-include-cache
   - jemoji
+  - jekyll-remote-theme
 
 # Site settings
 url: 'https://pull-fiction.github.io/make-crops-not-war'
