@@ -1,10 +1,10 @@
 ---
-title:
+title: Make Crops, not War!
 layout: page
 feature_image: "assets/img/holiday-inn.jpg"
 feature_text: Make Crops, not War!
 ---
-## Reminiscor est
+## Lorem ipsum
 
 Lorem markdownum anni **et**, pugnat modo terris, poteram prohibetis plenumque
 urgues, iugulo poma corpus trepidante? Furori imagine Fluctibus foribusque
@@ -35,7 +35,7 @@ vixque siccatque caudas.
 - Fit non aetas ire intrepidos filum eligit
 - Adamante auditos nostro verum coiere loco totum
 
-<iframe class="plot" src="assets/plots/war-events.html"></iframe> 
+<iframe class="plot" src="assets/plots/war-events.html"></iframe>
 
 ## Propulit quaerenti refert deposcunt verbisque descenderat voce
 
