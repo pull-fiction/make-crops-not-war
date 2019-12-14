@@ -1,0 +1,9 @@
+{
+  "lang": "en-US",
+  "name": "Make Crops, not War!",
+  "short_name": "MakeCrops,notWar!",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}
