@@ -1,19 +1,12 @@
 ---
 title: Make Crops, not War!
 layout: page
-feature_image: "assets/img/holiday-inn.jpg"
+feature_image: "assets/img/cover-diagonal.png"
 feature_text: Make Crops, not War!
 ---
-## Lorem ipsum
+## Introduction
 
-Lorem markdownum anni **et**, pugnat modo terris, poteram prohibetis plenumque
-urgues, iugulo poma corpus trepidante? Furori imagine Fluctibus foribusque
-diruta caelo quas vestra et praemia aquis ante supremum, montes. Nimius auctor
-uncos de illa neque duo: mersura *infelix invidiamque* arma tertia prior *ferat
-frontis*, cycnorum? Detectique Iovem meis: quoque excussit Achilles conorque
-pellem factus et et ense primae sic ast. Clamavit torrentis dolenti
-maiestatemque iniceret, subtemen, credas di leges dis liceret, auro bipenni,
-spectabat.
+The impacts of war on a country’s economy, social structure and politics are generally well documented and understood. However, impact on food and crop production has not been studied to the same extent. Through a brief literature research, it has been found that most papers about the topic are quite outdated. Our intention is to fill in this gap through an analysis of the UN Dataset on Food Production in conjunction with war data obtained through WikiData.
 
 1. Vincar ignis gemmis pudici
 2. Corpora quae Aeacidis stimulis dixi nec valetque
