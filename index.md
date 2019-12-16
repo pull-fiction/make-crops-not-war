@@ -2,7 +2,7 @@
 title: Make Crops, not War!
 layout: page
 feature_image: "assets/img/cover-diagonal.png"
-feature_text: Make Crops, not War!
+feature_text:
 ---
 ## Introduction
 

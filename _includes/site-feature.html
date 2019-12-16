@@ -7,7 +7,7 @@
 {% endif %}
 
 {% if feature_text or feature_image %}
-  <div class="feature"{% if feature_image %} style="background: linear-gradient(rgba(148, 158, 141, 0.3), rgba(148, 158, 141, 0.30)), url({{ feature_image }})"{% endif %}>
+  <div class="feature"{% if feature_image %} style="background-image: url({{ feature_image }})"{% endif %}>
     <div class="container typeset feature-text">
       <h1>{{ feature_text | markdownify }}</h1>
     </div>
