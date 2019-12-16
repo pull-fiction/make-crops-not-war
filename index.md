@@ -26,6 +26,8 @@ For our analysis, we have decided to investigate the Lebanese Civil War (1975-19
 
 Why would production of crops increase as steeply as it does during a major internal conflict? Wouldn’t it make more sense for the production to go down as people flee the country, or at a minimum stay constant? Clearly, migrating to Lebanon must not have been a popular plan at the time and hence, if anything the population was more likely to decline rather than increase during that time. A quick glance at import data shows that the country’s imports did not decrease, which could have created a need for more production. (SHOW GRAPH HERE? OR SIMPLY MENTION SOURCE?) It is possible that this is simply a coincidence, but the fact that the increase suddenly stops directly after the war suggests otherwise. To answer our questions, we must first get a better understanding of Lebanon’s agricultural situation.
 
+<iframe class="plot" src="assets/plots/map-agri-leb.html"></iframe>
+
 The majority of Lebanon’s agriculture is located away from it’s main urban area, Beirut. In fact, almost no agriculture takes place anywhere near Beirut, which happens to be the most densely populated city of Lebanon, having approximately 50% of Lebanon’s population (COMPLETE GUESS, GET DATA).    
 
 ## Enim temptata facio Aeacidae armis certa inter
