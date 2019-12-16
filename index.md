@@ -9,16 +9,16 @@ feature_text:
 The impacts of war on a country’s economy, social structure and politics are generally well documented and understood. However, impact on food and crop production has not been studied to the same extent. Through a brief literature research, it has been found that most papers about the topic are quite outdated. Our intention is to fill in this gap through an analysis of the UN Dataset on Food Production in conjunction with war data obtained through WikiData.
 
 1. Hi
-2. This is a 
+2. This is a
 3. list =)
 
 ## Altaque exitium divitias loqui
 
 The evolution of crop production can be viewed for all countries using the below chart. Some interesting countries to look at are Afghanistan, Lebanon, etc... (SHOW GRAPH WITH DROP DOWN)
 
-Clearly, different countries exhibit wildly different behaviours while there are conflicts within their territory. In order to get a global view of the effects of war on a countries crop production, let’s take a look at a normalized yearly rate of change in crop production for each country on one plot. The average rates of change of crop production of countries during years of peace can be seen on the Y-axis while the X-axis displays the rates in times of conflict. (SHOW SCATTER PLOT)
+Clearly, different countries exhibit wildly different behaviors while there are conflicts within their territory. In order to get a global view of the effects of war on a countries crop production, let’s take a look at a normalized yearly rate of change in crop production for each country on one plot. The average rates of change of crop production of countries during years of peace can be seen on the Y-axis while the X-axis displays the rates in times of conflict. (SHOW SCATTER PLOT)
 
-As expected, during peace, the majority of countries experience positive crop production growth. However, the obtained result during times of war is quite unexpected! Although one would be led to believe that a country’s crop production would generally decrease in periods of conflict within their boundaries, this is clearly not the case. The rates during periods of conflict are substantially polarized (-4 - 4%). Some countries experience more crop production growth during conflicts than during peace. 
+As expected, during peace, the majority of countries experience positive crop production growth. However, the obtained result during times of war is quite unexpected! Although one would be led to believe that a country’s crop production would generally decrease in periods of conflict within their boundaries, this is clearly not the case. The rates during periods of conflict are substantially polarized (-4 - 4%). Some countries experience more crop production growth during conflicts than during peace.
 
 Global conflicts are extremely complex and are impacted by thousands of unique factors. Each war is unique in multiple ways and are impacted by thousands of different variables. Effectively comparing different conflicts is nearly impossible. For the scope of this project, we have decided to dig deeper into one specific country and one specific conflict in order to gain an understanding of how one particular conflict has impacted this country.
 
