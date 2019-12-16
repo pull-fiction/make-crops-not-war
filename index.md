@@ -1,7 +1,7 @@
 ---
 title: Make Crops, not War!
 layout: page
-feature_image: "assets/img/cover-diagonal.png"
+feature_image: "assets/img/cover-diagonal.svg"
 feature_text:
 ---
 ## Introduction
@@ -9,7 +9,7 @@ feature_text:
 The impacts of war on a country’s economy, social structure and politics are generally well documented and understood. However, impact on food and crop production has not been studied to the same extent. Through a brief literature research, it has been found that most papers about the topic are quite outdated. Our intention is to fill in this gap through an analysis of the UN Dataset on Food Production in conjunction with war data obtained through WikiData.
 
 1. Hi
-2. This is a 
+2. This is a
 3. list =)
 
 ## Altaque exitium divitias loqui
@@ -28,9 +28,7 @@ Why would production of crops increase as steeply as it does during a major inte
 
 The majority of Lebanon’s agriculture is located away from it’s main urban area, Beirut. In fact, almost no agriculture takes place anywhere near Beirut, which happens to be the most densely populated city of Lebanon, having approximately 50% of Lebanon’s population (COMPLETE GUESS, GET DATA).    
 
-
 ## Enim temptata facio Aeacidae armis certa inter
-
 
 <iframe class="plot" src="assets/plots/war-events.html"></iframe>
 
@@ -44,4 +42,6 @@ Luna pampineis me. Sedent Phoebi odorato labitur, [et iussit
 sic](http://quisquislatronis.com/) admissum nocte moderator nescio non aras
 undique.
 
-<div class="flourish-embed" data-src="visualisation/1089802"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed" data-src="visualisation/1089802"></div>
+
+<script src="https://public.flourish.studio/resources/embed.js"></script>
