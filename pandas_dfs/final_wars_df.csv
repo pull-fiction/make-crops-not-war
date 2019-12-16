@@ -81,9 +81,8 @@ Casamance conflict,Senegal,2014-01-01,True,Senegal,Senegal,1982-01-01
 Sri Lankan Civil War,Sri Lanka,2009-01-01,True,Sri Lanka,Sri Lanka,1983-01-01
 Football War,Bolivia,1969-01-01,True,Bolivia,Honduras,1969-01-01
 Gaza War,Israel,2009-01-01,True,Gaza Strip,Israel,2008-01-01
-Cabinda Conflict,Angola,2017-01-01,True,Cabinda Province,Angola,1975-01-01
-Gaza War,State of Palestine,2009-01-01,True,Southern District,Israel,2008-01-01
-Gaza War,State of Palestine,2009-01-01,True,Gaza Strip,Israel,2008-01-01
+Gaza War,Palestine,2009-01-01,True,Southern District,Israel,2008-01-01
+Gaza War,Palestine,2009-01-01,True,Gaza Strip,Israel,2008-01-01
 Gaza War,Israel,2009-01-01,True,Southern District,Israel,2008-01-01
 War in North-West Pakistan,Pakistan,2017-01-01,True,Federally Administered Tribal Areas,United States of America,2004-01-01
 War in North-West Pakistan,Pakistan,2017-01-01,True,Federally Administered Tribal Areas,Islamic State of Iraq and the Levant,2004-01-01
@@ -111,60 +110,41 @@ War of Attrition,Egypt,1970-01-01,True,Sinai Peninsula,Soviet Union,1967-01-01
 War of Attrition,Egypt,1970-01-01,True,Sinai Peninsula,Cuba,1967-01-01
 Nagorno-Karabakh War,Azerbaijan,1994-01-01,True,Azerbaijan,Armenian Soviet Socialist Republic,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,True,Azerbaijan,Artsakh,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,True,Azerbaijan,Artsakh,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,True,Azerbaijan,Armenian Soviet Socialist Republic,1988-01-01
 Nagorno-Karabakh War,Azerbaijan,1994-01-01,True,Azerbaijan,Armenia,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,True,Azerbaijan,Armenian Soviet Socialist Republic,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,True,Azerbaijan,Armenia,1988-01-01
 Nagorno-Karabakh War,Azerbaijan,1994-01-01,True,Azerbaijan,Azerbaijan Soviet Socialist Republic,1988-01-01
 Nagorno-Karabakh War,Azerbaijan,1994-01-01,True,Azerbaijan,Soviet Union,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,True,Azerbaijan,Armenia,1988-01-01
 Nagorno-Karabakh War,Azerbaijan,1994-01-01,True,Azerbaijan,Azerbaijan,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,True,Azerbaijan,Azerbaijan Soviet Socialist Republic,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,True,Azerbaijan,Soviet Union,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,True,Azerbaijan,Azerbaijan Soviet Socialist Republic,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,True,Azerbaijan,Soviet Union,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,True,Azerbaijan,Azerbaijan,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,True,Azerbaijan,Azerbaijan,1988-01-01
 Nagorno-Karabakh War,Azerbaijan,1994-01-01,True,Azerbaijan,Artsakh,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,True,Armenia,Artsakh,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,True,Armenia,Artsakh,1988-01-01
 Nagorno-Karabakh War,Azerbaijan,1994-01-01,True,Armenia,Armenia,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,True,Armenia,Armenia,1988-01-01
 Nagorno-Karabakh War,Azerbaijan,1994-01-01,True,Armenia,Soviet Union,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,True,Armenia,Armenia,1988-01-01
 Nagorno-Karabakh War,Azerbaijan,1994-01-01,True,Armenia,Azerbaijan,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,True,Armenia,Soviet Union,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,True,Armenia,Soviet Union,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,True,Armenia,Azerbaijan,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,True,Armenia,Azerbaijan,1988-01-01
 Nagorno-Karabakh War,Azerbaijan,1994-01-01,True,Armenia,Artsakh,1988-01-01
 Nagorno-Karabakh War,Azerbaijan,1994-01-01,True,Nagorno-Karabakh,Artsakh,1988-01-01
 Bangladesh Liberation War,Pakistan,1971-01-01,True,East Pakistan,India,1971-01-01
 Bangladesh Liberation War,Pakistan,1971-01-01,True,East Pakistan,Pakistan,1971-01-01
-Ten-Day War,Slovenia,1991-01-01,True,Slovenia,Slovenia,1991-01-01
 Nagorno-Karabakh War,Azerbaijan,1994-01-01,True,Armenia,Armenian Soviet Socialist Republic,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,True,Armenia,Armenian Soviet Socialist Republic,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,True,Armenia,Armenian Soviet Socialist Republic,1988-01-01
 Nagorno-Karabakh War,Azerbaijan,1994-01-01,True,Armenia,Azerbaijan Soviet Socialist Republic,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,True,Armenia,Azerbaijan Soviet Socialist Republic,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,True,Armenia,Azerbaijan Soviet Socialist Republic,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,True,Nagorno-Karabakh,Azerbaijan,1988-01-01
 Nagorno-Karabakh War,Azerbaijan,1994-01-01,True,Nagorno-Karabakh,Armenian Soviet Socialist Republic,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,True,Nagorno-Karabakh,Artsakh,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,True,Nagorno-Karabakh,Artsakh,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,True,Nagorno-Karabakh,Armenian Soviet Socialist Republic,1988-01-01
 Nagorno-Karabakh War,Azerbaijan,1994-01-01,True,Nagorno-Karabakh,Armenia,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,True,Nagorno-Karabakh,Armenian Soviet Socialist Republic,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,True,Nagorno-Karabakh,Armenia,1988-01-01
 Nagorno-Karabakh War,Azerbaijan,1994-01-01,True,Nagorno-Karabakh,Azerbaijan Soviet Socialist Republic,1988-01-01
 Nagorno-Karabakh War,Azerbaijan,1994-01-01,True,Nagorno-Karabakh,Soviet Union,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,True,Nagorno-Karabakh,Armenia,1988-01-01
 Nagorno-Karabakh War,Azerbaijan,1994-01-01,True,Nagorno-Karabakh,Azerbaijan,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,True,Nagorno-Karabakh,Azerbaijan Soviet Socialist Republic,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,True,Nagorno-Karabakh,Soviet Union,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,True,Nagorno-Karabakh,Azerbaijan Soviet Socialist Republic,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,True,Nagorno-Karabakh,Soviet Union,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,True,Nagorno-Karabakh,Azerbaijan,1988-01-01
 Chadian–Libyan conflict,Chad,1987-01-01,True,Chad,Zaire,1978-01-01
 Chadian–Libyan conflict,Chad,1987-01-01,True,Chad,Chad,1978-01-01
@@ -178,11 +158,8 @@ Kurdish–Turkish conflict,Iraq,2017-01-01,True,Kurdistan Region,Turkey,2015-01-
 Kurdish–Turkish conflict,Iraq,2017-01-01,True,Syria–Turkey border,Turkey,2015-01-01
 Kurdish–Turkish conflict,Turkey,2017-01-01,True,Syria–Turkey border,Turkey,2015-01-01
 Russo-Georgian War,Georgia,2008-01-01,True,South Ossetia,Russia,2008-01-01
-Russo-Georgian War,South Ossetia,2008-01-01,True,South Ossetia,Russia,2008-01-01
 Russo-Georgian War,Georgia,2008-01-01,True,South Ossetia,Georgia,2008-01-01
-Russo-Georgian War,South Ossetia,2008-01-01,True,South Ossetia,Georgia,2008-01-01
 Russo-Georgian War,Georgia,2008-01-01,True,South Ossetia,South Ossetia,2008-01-01
-Russo-Georgian War,South Ossetia,2008-01-01,True,South Ossetia,South Ossetia,2008-01-01
 War of Transnistria,Moldova,1992-01-01,True,Transnistria,Russia,1992-01-01
 Cambodian–Vietnamese War,Cambodia,1991-01-01,True,Cambodia,Democratic Kampuchea,1977-01-01
 Cambodian–Vietnamese War,Cambodia,1991-01-01,True,Cambodia,People's Republic of Kampuchea,1977-01-01
@@ -206,7 +183,6 @@ Agacher Strip War,Mali,1985-01-01,True,Burkina Faso–Mali border,Mali,1985-01-0
 Agacher Strip War,Burkina Faso,1985-01-01,True,Burkina Faso–Mali border,Burkina Faso,1985-01-01
 Agacher Strip War,Burkina Faso,1985-01-01,True,Burkina Faso–Mali border,Mali,1985-01-01
 Agacher Strip War,Mali,1985-01-01,True,Burkina Faso–Mali border,Burkina Faso,1985-01-01
-Portuguese Colonial War,Angola,1974-01-01,True,Portuguese Angola,Estado Novo,1961-01-01
 Kurdish–Turkish conflict,Syria,2017-01-01,True,Eastern Anatolia Region,Turkey,2015-01-01
 Kurdish–Turkish conflict,Syria,2017-01-01,True,Southeastern Anatolia Region,Turkey,2015-01-01
 2001 insurgency in the Republic of Macedonia,North Macedonia,2001-01-01,True,Kumanovo Municipality,Ukraine,2001-01-01
@@ -240,9 +216,7 @@ Croat–Bosniak War,Bosnia and Herzegovina,1994-01-01,True,Bosnia and Herzegovin
 Republic of the Congo Civil War,Republic of the Congo,1999-01-01,True,Republic of the Congo,Rwanda,1997-01-01
 War in Somalia (2006-2009),Somalia,2009-01-01,True,Somalia,Ethiopia,2006-01-01
 War in Abkhazia,Georgia,1993-01-01,True,Abkhazia,Russia,1992-01-01
-War in Abkhazia,Republic of Abkhazia,1993-01-01,True,Abkhazia,Russia,1992-01-01
 War in Abkhazia,Georgia,1993-01-01,True,Abkhazia,Georgia,1992-01-01
-War in Abkhazia,Republic of Abkhazia,1993-01-01,True,Abkhazia,Georgia,1992-01-01
 Civil war in Tajikistan,Tajikistan,1997-01-01,True,Tajikistan,Russia,1992-01-01
 Civil war in Tajikistan,Tajikistan,1997-01-01,True,Tajikistan,Tajikistan,1992-01-01
 War in Somalia (2006-2009),Somalia,2009-01-01,True,Somalia,Islamic Courts Union,2006-01-01
@@ -254,9 +228,7 @@ Indonesia–Malaysia confrontation,Singapore,1966-01-01,True,Malay Peninsula,Ind
 Indonesia–Malaysia confrontation,Malaysia,1966-01-01,True,Malay Peninsula,Indonesia,1963-01-01
 Indonesia–Malaysia confrontation,Thailand,1966-01-01,True,Malay Peninsula,Malaysia,1963-01-01
 Indonesia–Malaysia confrontation,Singapore,1966-01-01,True,Malay Peninsula,Malaysia,1963-01-01
-Indonesia–Malaysia confrontation,Myanmar,1966-01-01,True,Malay Peninsula,Indonesia,1963-01-01
 Indonesia–Malaysia confrontation,Malaysia,1966-01-01,True,Malay Peninsula,Malaysia,1963-01-01
-Indonesia–Malaysia confrontation,Myanmar,1966-01-01,True,Malay Peninsula,Malaysia,1963-01-01
 Indonesia–Malaysia confrontation,Thailand,1966-01-01,True,Malay Peninsula,Indonesia,1963-01-01
 Shifta War,Kenya,1967-01-01,True,North Eastern Province,Somali Republic,1963-01-01
 Kargil War,India,1999-01-01,True,Kargil district,India,1999-01-01
@@ -285,8 +257,6 @@ Indo-Pakistani War of 1971,Bangladesh,1971-01-01,True,Arabian Sea,India,1971-01-
 Indo-Pakistani War of 1971,Bangladesh,1971-01-01,True,Arabian Sea,Pakistan,1971-01-01
 Indo-Pakistani War of 1971,Pakistan,1971-01-01,True,Arabian Sea,India,1971-01-01
 Indo-Pakistani War of 1971,Pakistan,1971-01-01,True,Arabian Sea,Pakistan,1971-01-01
-Rhodesian Bush War,Rhodesia,1979-01-01,True,Rhodesia,Rhodesia,1964-01-01
-Rhodesian Bush War,Rhodesia,1979-01-01,True,Rhodesia,South Africa,1964-01-01
 Indo-Pakistani War of 1971,Bangladesh,1971-01-01,True,Indo-Bangladesh enclaves,India,1971-01-01
 Indo-Pakistani War of 1971,Bangladesh,1971-01-01,True,India–Pakistan border,India,1971-01-01
 Indo-Pakistani War of 1971,Bangladesh,1971-01-01,True,Indo-Bangladesh enclaves,Pakistan,1971-01-01
@@ -303,12 +273,8 @@ Indo-Pakistani War of 1971,Pakistan,1971-01-01,True,Line of Control,India,1971-0
 Indo-Pakistani War of 1971,Pakistan,1971-01-01,True,Bangladesh–India border,India,1971-01-01
 Indo-Pakistani War of 1971,Pakistan,1971-01-01,True,Line of Control,Pakistan,1971-01-01
 Indo-Pakistani War of 1971,Pakistan,1971-01-01,True,Bangladesh–India border,Pakistan,1971-01-01
-Kachin conflict,Myanmar,2017-01-01,True,Kachin State,"Post-independence Burma, 1948–1962",1961-01-01
-Kachin conflict,Myanmar,2017-01-01,True,Kachin State,Myanmar,1961-01-01
 Indonesian invasion of East Timor,East Timor,1979-01-01,True,East Timor,East Timor,1975-01-01
 Indonesian invasion of East Timor,East Timor,1979-01-01,True,East Timor,Indonesia,1975-01-01
-Kachin conflict,Myanmar,2017-01-01,True,Shan State,"Post-independence Burma, 1948–1962",1961-01-01
-Kachin conflict,Myanmar,2017-01-01,True,Shan State,Myanmar,1961-01-01
 War over Water,Jordan,1967-01-01,True,Jordan Valley,Jordan,1964-01-01
 War over Water,Jordan,1967-01-01,True,Jordan Valley,Israel,1964-01-01
 War over Water,Jordan,1967-01-01,True,Jordan Valley,Syria,1964-01-01
@@ -323,8 +289,6 @@ Indian intervention in the Sri Lankan Civil War,Sri Lanka,1990-01-01,True,Sri La
 Operation Winter '94,Bosnia and Herzegovina,1994-01-01,True,Bosnia and Herzegovina,Croatia,1994-01-01
 Operation Winter '94,Croatia,1994-01-01,True,Bosnia and Herzegovina,Croatian Republic of Herzeg-Bosnia,1994-01-01
 Eelam War II,Sri Lanka,1995-01-01,True,Sri Lanka,Sri Lanka,1990-01-01
-Angolan Civil War,Angola,2002-01-01,True,Angola,South Africa,1975-01-01
-Angolan Civil War,Angola,2002-01-01,True,Angola,Cuba,1975-01-01
 Eelam War III,Sri Lanka,2002-01-01,True,Sri Lanka,Sri Lanka,1995-01-01
 Iraq War troop surge of 2007,Iraq,2008-01-01,True,Iraq,United States of America,2007-01-01
 Djiboutian–Eritrean border conflict,Djibouti,2008-01-01,True,Ras Doumeira,Eritrea,2008-01-01
@@ -386,10 +350,8 @@ First Guatemala War,Guatemala,1968-01-01,True,Guatemala,Guatemala,1966-01-01
 First Guatemala War,Guatemala,1968-01-01,True,Guatemala,United States of America,1966-01-01
 First Chad (FROLINAT) Rebellion,Chad,1971-01-01,True,Chad,Chad,1966-01-01
 Georgia War,Georgia,1992-01-01,True,Georgia,Georgia,1991-01-01
-Nagorno-Karabakh War,Artsakh,1993-01-01,True,Nagorno-Karabakh,Azerbaijan,1991-01-01
 Dniestrian Independence War,Moldova,1992-01-01,True,Transnistria,Transnistria,1991-01-01
 Dniestrian Independence War,Moldova,1992-01-01,True,Transnistria,Moldova,1991-01-01
-Nagorno-Karabakh War,Artsakh,1993-01-01,True,Nagorno-Karabakh,Armenia,1991-01-01
 Algerian Islamic Front War,Algeria,1999-01-01,True,Algeria,Algeria,1991-01-01
 1964 Ethiopian-Somali Border War,Ethiopia,1964-01-01,True,Ogaden,Somali Republic,1964-01-01
 Manbij offensive,Syria,2017-01-01,True,Manbij,Islamic State of Iraq and the Levant,2016-01-01
@@ -716,26 +678,6 @@ Tet Offensive,Vietnam,1968-01-01,True,South Vietnam,South Vietnam,1968-01-01
 Soviet–Afghan War,Afghanistan,1989-01-01,True,Democratic Republic of Afghanistan,Soviet Union,1979-01-01
 Lebanon War,Lebanon,1985-01-01,True,Lebanon,Israel,1982-01-01
 Lebanon War,Lebanon,1985-01-01,True,Lebanon,Syria,1982-01-01
-Kosovo War,Kosovo,1999-01-01,True,Kosovo,Federal Republic of Yugoslavia,1998-01-01
-Kosovo War,Kosovo,1999-01-01,True,Kosovo,Luxembourg,1998-01-01
-Kosovo War,Kosovo,1999-01-01,True,Kosovo,Hungary,1998-01-01
-Kosovo War,Kosovo,1999-01-01,True,Kosovo,Belgium,1998-01-01
-Kosovo War,Kosovo,1999-01-01,True,Kosovo,Germany,1998-01-01
-Kosovo War,Kosovo,1999-01-01,True,Kosovo,Portugal,1998-01-01
-Kosovo War,Kosovo,1999-01-01,True,Kosovo,Turkey,1998-01-01
-Kosovo War,Kosovo,1999-01-01,True,Kosovo,Albania,1998-01-01
-Kosovo War,Kosovo,1999-01-01,True,Kosovo,Spain,1998-01-01
-Kosovo War,Kosovo,1999-01-01,True,Kosovo,Italy,1998-01-01
-Kosovo War,Kosovo,1999-01-01,True,Kosovo,Netherlands,1998-01-01
-Kosovo War,Kosovo,1999-01-01,True,Kosovo,France,1998-01-01
-Kosovo War,Kosovo,1999-01-01,True,Kosovo,Denmark,1998-01-01
-Kosovo War,Kosovo,1999-01-01,True,Kosovo,Czech Republic,1998-01-01
-Kosovo War,Kosovo,1999-01-01,True,Kosovo,Canada,1998-01-01
-Kosovo War,Kosovo,1999-01-01,True,Kosovo,Norway,1998-01-01
-Kosovo War,Kosovo,1999-01-01,True,Kosovo,Poland,1998-01-01
-Kosovo War,Kosovo,1999-01-01,True,Kosovo,Iceland,1998-01-01
-Kosovo War,Kosovo,1999-01-01,True,Kosovo,United Kingdom,1998-01-01
-Kosovo War,Kosovo,1999-01-01,True,Kosovo,United States of America,1998-01-01
 Lord's Resistance Army insurgency,Uganda,2017-01-01,True,,Uganda,1987-01-01
 Lord's Resistance Army insurgency,South Sudan,2017-01-01,True,,Uganda,1987-01-01
 Lord's Resistance Army insurgency,Democratic Republic of the Congo,2017-01-01,True,,Uganda,1987-01-01
@@ -922,15 +864,12 @@ Kurdish–Turkish conflict,Syria,2017-01-01,False,Eastern Anatolia Region,Koma C
 Kurdish–Turkish conflict,Iraq,2017-01-01,False,Eastern Anatolia Region,Kurdistan Freedom Falcons,2015-01-01
 Kurdish–Turkish conflict,Syria,2017-01-01,False,Eastern Anatolia Region,Kurdistan Freedom Falcons,2015-01-01
 Kurdish–Turkish conflict,Turkey,2017-01-01,False,Eastern Anatolia Region,Koma Civakên Kurdistan,2015-01-01
-Kachin conflict,Myanmar,2017-01-01,False,Shan State,Kachin Independence Organisation,1961-01-01
-Kachin conflict,Myanmar,2017-01-01,False,Kachin State,Kachin Independence Organisation,1961-01-01
 Kivu conflict,Democratic Republic of the Congo,2017-01-01,False,Kivu,National Forces of Liberation,2004-01-01
 Kivu conflict,Democratic Republic of the Congo,2017-01-01,False,Kivu,Democratic Forces for the Liberation of Rwanda,2004-01-01
 War in North-West Pakistan,Pakistan,2017-01-01,False,Federally Administered Tribal Areas,Lashkar-e-Jhangvi,2004-01-01
 War in North-West Pakistan,Pakistan,2017-01-01,False,Federally Administered Tribal Areas,Islamic State of Iraq and the Levant,2004-01-01
 War in North-West Pakistan,Pakistan,2017-01-01,False,Federally Administered Tribal Areas,Turkistan Islamic Party,2004-01-01
 War in North-West Pakistan,Pakistan,2017-01-01,False,Federally Administered Tribal Areas,Islamic State of Iraq and the Levant – Khorasan Province,2004-01-01
-Cabinda Conflict,Angola,2017-01-01,False,Cabinda Province,Front for the Liberation of the Enclave of Cabinda,1975-01-01
 Libyan civil war (2014–),Libya,2017-01-01,False,Libya,Islamic State of Iraq and the Levant,2014-01-01
 Libyan civil war (2014–),Libya,2017-01-01,False,Libya,Government of National Accord,2014-01-01
 War in Afghanistan (2015–),Afghanistan,2017-01-01,False,Afghanistan,Taliban,2015-01-01
@@ -990,20 +929,20 @@ Aleppo offensive,Syria,2013-01-01,False,Aleppo Governorate,Al-Nusra Front,2013-0
 Aleppo offensive,Syria,2013-01-01,False,Aleppo Governorate,Islamic State of Iraq and the Levant,2013-01-01
 Aleppo offensive,Syria,2013-01-01,False,Aleppo Governorate,Hezbollah,2013-01-01
 Second Chechen War,Russia,2009-01-01,False,Chechen Republic,Caucasus Emirate,1999-01-01
-Gaza War,State of Palestine,2009-01-01,False,Gaza Strip,Islamic Jihad Movement in Palestine,2008-01-01
-Gaza War,State of Palestine,2009-01-01,False,Gaza Strip,Fatah,2008-01-01
-Gaza War,State of Palestine,2009-01-01,False,Gaza Strip,Popular Front for the Liberation of Palestine,2008-01-01
+Gaza War,Palestine,2009-01-01,False,Gaza Strip,Islamic Jihad Movement in Palestine,2008-01-01
+Gaza War,Palestine,2009-01-01,False,Gaza Strip,Fatah,2008-01-01
+Gaza War,Palestine,2009-01-01,False,Gaza Strip,Popular Front for the Liberation of Palestine,2008-01-01
 Gaza War,Israel,2009-01-01,False,Gaza Strip,Islamic Jihad Movement in Palestine,2008-01-01
 Gaza War,Israel,2009-01-01,False,Gaza Strip,Fatah,2008-01-01
 Gaza War,Israel,2009-01-01,False,Gaza Strip,Popular Front for the Liberation of Palestine,2008-01-01
-Gaza War,State of Palestine,2009-01-01,False,Gaza Strip,Hamas,2008-01-01
+Gaza War,Palestine,2009-01-01,False,Gaza Strip,Hamas,2008-01-01
 Gaza War,Israel,2009-01-01,False,Gaza Strip,Hamas,2008-01-01
-Gaza War,State of Palestine,2009-01-01,False,Southern District,Islamic Jihad Movement in Palestine,2008-01-01
+Gaza War,Palestine,2009-01-01,False,Southern District,Islamic Jihad Movement in Palestine,2008-01-01
 Gaza War,Israel,2009-01-01,False,Southern District,Islamic Jihad Movement in Palestine,2008-01-01
-Gaza War,State of Palestine,2009-01-01,False,Southern District,Hamas,2008-01-01
+Gaza War,Palestine,2009-01-01,False,Southern District,Hamas,2008-01-01
 Gaza War,Israel,2009-01-01,False,Southern District,Hamas,2008-01-01
-Gaza War,State of Palestine,2009-01-01,False,Southern District,Fatah,2008-01-01
-Gaza War,State of Palestine,2009-01-01,False,Southern District,Popular Front for the Liberation of Palestine,2008-01-01
+Gaza War,Palestine,2009-01-01,False,Southern District,Fatah,2008-01-01
+Gaza War,Palestine,2009-01-01,False,Southern District,Popular Front for the Liberation of Palestine,2008-01-01
 Gaza War,Israel,2009-01-01,False,Southern District,Fatah,2008-01-01
 Gaza War,Israel,2009-01-01,False,Southern District,Popular Front for the Liberation of Palestine,2008-01-01
 War in Somalia (2006-2009),Somalia,2009-01-01,False,Somalia,Alliance for the Re-liberation of Somalia,2006-01-01
@@ -1028,14 +967,9 @@ Second Congo War,Democratic Republic of the Congo,2003-01-01,False,Democratic Re
 Second Congo War,Democratic Republic of the Congo,2003-01-01,False,Democratic Republic of the Congo,Rally for Congolese Democracy,1998-01-01
 Second Congo War,Democratic Republic of the Congo,2003-01-01,False,Democratic Republic of the Congo,National Liberation Front,1998-01-01
 2003 invasion of Iraq,Iraq,2003-01-01,False,Iraq,Ansar al-Islam,2003-01-01
-Angolan Civil War,Angola,2002-01-01,False,Angola,National Union for the Total Independence of Angola,1975-01-01
-Angolan Civil War,Angola,2002-01-01,False,Angola,National Liberation Front of Angola,1975-01-01
-Angolan Civil War,Angola,2002-01-01,False,Angola,People's Movement for the Liberation of Angola,1975-01-01
-Angolan Civil War,Angola,2002-01-01,False,Angola,Front for the Liberation of the Enclave of Cabinda,1975-01-01
 Eelam War III,Sri Lanka,2002-01-01,False,Sri Lanka,Liberation Tigers of Tamil Eelam,1995-01-01
 Algerian Islamic Front War,Algeria,1999-01-01,False,Algeria,Islamic Salvation Front,1991-01-01
 War in Abkhazia (1998),Georgia,1998-01-01,False,Abkhazia,Mkhedrioni,1998-01-01
-War in Abkhazia (1998),Republic of Abkhazia,1998-01-01,False,Abkhazia,Mkhedrioni,1998-01-01
 Civil war in Tajikistan,Tajikistan,1997-01-01,False,Tajikistan,Taliban,1992-01-01
 First Congo War,Democratic Republic of the Congo,1997-01-01,False,Zaire,National Union for the Total Independence of Angola,1996-01-01
 First Congo War,Democratic Republic of the Congo,1997-01-01,False,Zaire,Alliance of Democratic Forces for the Liberation of Congo,1996-01-01
@@ -1049,22 +983,15 @@ Nagorno-Karabakh War,Azerbaijan,1994-01-01,False,Azerbaijan,Armenian Revolutiona
 Nagorno-Karabakh War,Azerbaijan,1994-01-01,False,Armenia,Armenian Revolutionary Federation,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,False,Azerbaijan,Azerbaijani Popular Front Party,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,False,Armenia,Azerbaijani Popular Front Party,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,False,Azerbaijan,Azerbaijani Popular Front Party,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,False,Armenia,Azerbaijani Popular Front Party,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,False,Azerbaijan,Armenian Revolutionary Federation,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,False,Armenia,Armenian Revolutionary Federation,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,False,Azerbaijan,Armenian Revolutionary Federation,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,False,Armenia,Armenian Revolutionary Federation,1988-01-01
 Nagorno-Karabakh War,Azerbaijan,1994-01-01,False,Nagorno-Karabakh,Azerbaijani Popular Front Party,1988-01-01
 Nagorno-Karabakh War,Azerbaijan,1994-01-01,False,Nagorno-Karabakh,Armenian Revolutionary Federation,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,False,Nagorno-Karabakh,Azerbaijani Popular Front Party,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,False,Nagorno-Karabakh,Azerbaijani Popular Front Party,1988-01-01
 Nagorno-Karabakh War,Armenia,1994-01-01,False,Nagorno-Karabakh,Armenian Revolutionary Federation,1988-01-01
-Nagorno-Karabakh War,Artsakh,1994-01-01,False,Nagorno-Karabakh,Armenian Revolutionary Federation,1988-01-01
 Djiboutian Civil War,Djibouti,1994-01-01,False,,Front for the Restoration of Unity and Democracy,1991-01-01
 Second Rwanda War,Rwanda,1994-01-01,False,Rwanda,Rwandan Patriotic Front,1994-01-01
 War in Abkhazia,Georgia,1993-01-01,False,Abkhazia,Ukrainian National Assembly – Ukrainian National Self Defence,1992-01-01
-War in Abkhazia,Republic of Abkhazia,1993-01-01,False,Abkhazia,Ukrainian National Assembly – Ukrainian National Self Defence,1992-01-01
 Salvadoran Civil War,El Salvador,1992-01-01,False,El Salvador,Farabundo Martí National Liberation Front,1979-01-01
 Cambodian–Vietnamese War,Cambodia,1991-01-01,False,Cambodia,Kampuchean United Front for National Salvation,1977-01-01
 Lebanese Civil War,Lebanon,1990-01-01,False,Lebanon,Amal Movement,1975-01-01
@@ -1117,10 +1044,7 @@ Lebanon War,Lebanon,1985-01-01,False,Lebanon,Hezbollah,1982-01-01
 Uganda–Tanzania War,Uganda,1979-01-01,False,Uganda,Uganda National Liberation Front,1978-01-01
 Uganda–Tanzania War,Uganda,1979-01-01,False,Uganda,Palestine Liberation Organization,1978-01-01
 Indonesian invasion of East Timor,East Timor,1979-01-01,False,East Timor,Timorese Democratic Union,1975-01-01
-Rhodesian Bush War,Rhodesia,1979-01-01,False,Rhodesia,FRELIMO,1964-01-01
-Rhodesian Bush War,Rhodesia,1979-01-01,False,Rhodesia,Zimbabwe African People's Union,1964-01-01
 Indonesian invasion of East Timor,East Timor,1979-01-01,False,East Timor,Timorese Popular Democratic Association,1975-01-01
-Rhodesian Bush War,Rhodesia,1979-01-01,False,Rhodesia,African National Congress,1964-01-01
 Indonesian invasion of East Timor,East Timor,1979-01-01,False,East Timor,Revolutionary Front for an Independent East Timor,1975-01-01
 Ethio-Somali War,Ethiopia,1978-01-01,False,Ethiopia,Western Somali Liberation Front,1977-01-01
 Ethio-Somali War,Ethiopia,1978-01-01,False,Ethiopia,Derg,1977-01-01
@@ -1133,12 +1057,6 @@ Cambodian Civil War,Cambodia,1975-01-01,False,Kingdom of Cambodia,National Unite
 Vietnam War,Vietnam,1975-01-01,False,South Vietnam,National Front for the Liberation of South Vietnam,1965-01-01
 Second Kurdish–Iraqi War,Iraq,1975-01-01,False,,Kurdistan Democratic Party,1974-01-01
 Vietnam War,Vietnam,1975-01-01,False,South Vietnam,Pathet Lao,1965-01-01
-Portuguese Colonial War,Angola,1974-01-01,False,Portuguese Angola,FRELIMO,1961-01-01
-Portuguese Colonial War,Angola,1974-01-01,False,Portuguese Angola,National Union for the Total Independence of Angola,1961-01-01
-Portuguese Colonial War,Angola,1974-01-01,False,Portuguese Angola,National Liberation Front of Angola,1961-01-01
-Portuguese Colonial War,Angola,1974-01-01,False,Portuguese Angola,People's Movement for the Liberation of Angola,1961-01-01
-Portuguese Colonial War,Angola,1974-01-01,False,Portuguese Angola,African Party for the Independence of Guinea and Cape Verde,1961-01-01
-Portuguese Colonial War,Angola,1974-01-01,False,Portuguese Angola,Front for the Liberation of the Enclave of Cabinda,1961-01-01
 Yom Kippur War,Israel,1973-01-01,False,Suez Canal,Palestine Liberation Organization,1973-01-01
 Yom Kippur War,Israel,1973-01-01,False,Golan Heights,Palestine Liberation Organization,1973-01-01
 Yom Kippur War,Israel,1973-01-01,False,Sinai Peninsula,Palestine Liberation Organization,1973-01-01
@@ -1224,13 +1142,13 @@ War in Afghanistan,Afghanistan,2014-01-01,False,Afghanistan,Turkistan Islamic Pa
 2014 Israel–Gaza conflict,Israel,2014-01-01,False,Gaza Strip,Islamic Jihad Movement in Palestine,2014-01-01
 Aleppo offensive,Syria,2013-01-01,False,Aleppo Governorate,Al-Nusra Front,2013-01-01
 Aleppo offensive,Syria,2013-01-01,False,Aleppo Governorate,Islamic State of Iraq and the Levant,2013-01-01
-Gaza War,State of Palestine,2009-01-01,False,Southern District,Islamic Jihad Movement in Palestine,2008-01-01
-Gaza War,State of Palestine,2009-01-01,False,Gaza Strip,Islamic Jihad Movement in Palestine,2008-01-01
+Gaza War,Palestine,2009-01-01,False,Southern District,Islamic Jihad Movement in Palestine,2008-01-01
+Gaza War,Palestine,2009-01-01,False,Gaza Strip,Islamic Jihad Movement in Palestine,2008-01-01
 Second Chechen War,Russia,2009-01-01,False,Chechen Republic,Caucasus Emirate,1999-01-01
 Gaza War,Israel,2009-01-01,False,Southern District,Islamic Jihad Movement in Palestine,2008-01-01
 Gaza War,Israel,2009-01-01,False,Gaza Strip,Islamic Jihad Movement in Palestine,2008-01-01
-Gaza War,State of Palestine,2009-01-01,False,Southern District,Hamas,2008-01-01
-Gaza War,State of Palestine,2009-01-01,False,Gaza Strip,Hamas,2008-01-01
+Gaza War,Palestine,2009-01-01,False,Southern District,Hamas,2008-01-01
+Gaza War,Palestine,2009-01-01,False,Gaza Strip,Hamas,2008-01-01
 Gaza War,Israel,2009-01-01,False,Southern District,Hamas,2008-01-01
 Gaza War,Israel,2009-01-01,False,Gaza Strip,Hamas,2008-01-01
 Civil war in Tajikistan,Tajikistan,1997-01-01,False,Tajikistan,Taliban,1992-01-01
