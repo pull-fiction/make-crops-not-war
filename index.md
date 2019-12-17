@@ -11,16 +11,23 @@ How war changes what you eat?
 History textbooks clearly describe how wars affect a country’s economy, social structure and politics. What has not been studied with the same extent is the impact on agricultural production. This aspect intrigues us, as it pervades citizen's life deeply, affecting the most basic need: eating.
 In order to unveil this subtle link, we will make use of different data:
 
-1. Global Food & Agriculture Statistics 
+1. Global Food & Agriculture Statistics
 2. Uppsala Conflict Data Program/PRIO Armed Conflict Dataset
 3. Wikidata Query Service
-to see how production changes and, consequently, trace back food consumption at wartime. Follow us along, you'll discover that worldwide, even in dark time, food is and remains the most valuable social good. 
+to see how production changes and, consequently, trace back food consumption at wartime. Follow us along, you'll discover that worldwide, even in dark time, food is and remains the most valuable social good.
 
 ## How war tastes around the world
 
-These last 60 years have been the most peaceful time our world has ever experienced. But did you know we have had XXXXX wars?
-Here's a plot that allows us to get a global view of the effects of war on countries crop production. Every dot is a country; on the X-axis there's average rates of change of crop production in wartime; on the Y-axis, instead, the rate of change in peace. The production is normalized to allow for a more fair comparison.
+
+
+These last 60 years have been the most peaceful time our world has ever experienced. But did you know we have had XXXXX wars? The graph below shows the evolution of total crop production of each country. Years of conflict are displayed as red.
+
+<iframe class="plot" src="assets/plots/crops-vs-year.html"></iframe>
+
+Clearly, different countries exhibit wildly different behaviours while there are conflicts within their territory. In order to get a global view of the effects of war on a countries crop production, let’s take a look at a normalized yearly rate of change in crop production for each country on one plot.Every dot is a country; on the X-axis there's average rates of change of crop production in wartime; on the Y-axis, instead, the rate of change in peace. The rates of change are shown in pourcentages to allow for a more fair comparison.
+
 (SHOW SCATTER PLOT)
+
 As expected, during peace, the majority of countries experience positive crop production growth. However, the obtained result during times of war is quite unexpected, isn't it? Although one would be led to believe that a country’s crop production would generally decrease in periods of conflict within its boundaries, this is not always the case. The rates during periods of conflict are substantially polarized (between -4% and +4%). Surprisingly, some countries experience more crop production growth during conflicts than during peace.
 
 It is clear from this graph that every country has its own history, size, resources, population, and every generalization would be too coarse-grained.
@@ -30,17 +37,21 @@ So we'll continue our investigation country-wise. We let you find out for yourse
 
 ## A case study: Lebanon
 
-From your brief analysis, you might have seen something really bizarre. We have too. 
+From your brief analysis, you might have seen something really bizarre. We have too.
 We got particularly curious about Lebanon. This little Middle-est country has suffered quite a brutal civil war, and not a short one (1975-1990). Despite that, its production increases weirdly and remarkably during the conflict.
 (SHOW GRAPH OF LEBANON CROP)
 
 # The background
 The scope of our research is not to give a exaustive description of the war events, nor their cause. For our aim, it suffices to say that for 15 years, a country already proven by etnhical, religious and political divisions has to suffer the fight of more than 22 different militias. This, together with the external ingerence from Syrians, Israelis, Palestinians, has led to approximately 120.000 fatalities.
+
 # The setting
 Here's approximative distribution of war events over the Lebanese surface. Next to it, the agricultural areas
 (SHOW WAR EVENTS MAP NEXT TO AGRICULTURAL)
-<iframe class="plot" src="assets/plots/war-events.html"></iframe>
-<iframe class="plot" src="assets/plots/map-agri-leb.html"></iframe>
+
+<iframe class="plot_ani" src="assets/plots/war-events.html"></iframe>
+
+<iframe class="plot_map" src="assets/plots/map-agri-leb.html"></iframe>
+
 What immediately caught our eyes is the completely different localization of the two phenomena. The civil war mainly affected the urban area, especially the capital Beirut that by itself host more than half the population of Lebanon. On the other hand, the productive area of the country is located in the fertile Beqaa's valleys.
 
 ## Why production increases
@@ -59,7 +70,7 @@ In a very counterintuivite and special way, war has revitalized an intially weak
 
 ## How production changes
 
-We'll get now in even more detail. Just knowing that the production increase is not enough. How does it change? All the different crops change in the same way, to the same amount? 
+We'll get now in even more detail. Just knowing that the production increase is not enough. How does it change? All the different crops change in the same way, to the same amount?
 
 <div class="flourish-embed" data-src="visualisation/1089802"></div>
 
