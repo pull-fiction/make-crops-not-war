@@ -8,12 +8,12 @@ feature_text:
 
 How war changes what you eat?
 
-History textbooks clearly describe how wars affect a country’s economy, social structure and politics. What has not been studied with the same extent is the impact on agricultural production. This aspect intrigues us, as it pervades citizen's life deeply, affecting the most basic need: eating.
+History textbooks clearly describe how wars affect a country is economy, social structure and politics. What has not been studied to the same extent is the impact on agricultural production. This aspect intrigues us, as it pervades citizen is life deeply, affecting the most basic need: eating.
 In order to unveil this subtle link, we will make use of different data:
 
-1. Global Food & Agriculture Statistics
-2. Uppsala Conflict Data Program/PRIO Armed Conflict Dataset
-3. Wikidata Query Service
+    1. Global Food & Agriculture Statistics
+    2. Uppsala Conflict Data Program/PRIO Armed Conflict Dataset
+    3. Wikidata Query Service
 to see how production changes and, consequently, trace back food consumption at wartime. Follow us along, you'll discover that worldwide, even in dark time, food is and remains the most valuable social good.
 
 ## How war tastes around the world
@@ -21,11 +21,17 @@ to see how production changes and, consequently, trace back food consumption at 
 So we'll continue our investigation country-wise. We let you find out for yourselves not only the countries involved in war, but also how their conflicts "tasted like" in terms of agricultural production. Prepare to be surprised.
 (SHOW GRAPH WITH DROP DOWN)
 
-These last 60 years have been the most peaceful time our world has ever experienced. But did you know we have had XXXXX wars? The graph below shows the evolution of total crop production of each country. Years of conflict are displayed as red.
+These last 60 years have been the most peaceful time our world has ever experienced. But did you know we have had XXXXX wars? The graph below shows the evolution of total crop production of each country. Years of conflict are displayed in red.
 
 <iframe class="plot" src="assets/plots/crops-vs-year.html"></iframe>
 
-Clearly, different countries exhibit wildly different behaviours while there are conflicts within their territory. In order to get a global view of the effects of war on a countries crop production, let’s take a look at a normalized yearly rate of change in crop production for each country on one plot.Every dot is a country; on the X-axis there's average rates of change of crop production in wartime; on the Y-axis, instead, the rate of change in peace. The rates of change are shown in pourcentages to allow for a more fair comparison.
+Clearly, different countries exhibit wildly different behaviours while there are conflicts within their territory. Here is a plot that allows us to get a global view of the effects of war on countries crop production. That is how to read it:
+* every dot is a country; 
+* on the X-axis there's the average rate of change of crop production in wartime;
+* on the Y-axis, instead, the average rate of change in peace;
+* the production is normalized according to both country size and population to allow a more fair comparison;
+* the rates of change are shown in percentages;
+* the color represents the number of years in war.
 
 <iframe class="plot" src="assets/plots/crop-rate.html"></iframe>
 
@@ -43,7 +49,7 @@ We got particularly curious about Lebanon. This little Middle-est country has su
 The scope of our research is not to give a exaustive description of the war events, nor their cause. For our aim, it suffices to say that for 15 years, a country already proven by etnhical, religious and political divisions has to suffer the fight of more than 22 different militias. This, together with the external ingerence from Syrians, Israelis, Palestinians, has led to approximately 120.000 fatalities.
 
 # The setting
-Here's approximative distribution of war events over the Lebanese surface. Next to it, the agricultural areas
+Here's approximative distribution of war events over the Lebanese surface. Next to it, the agricultural areas.
 (SHOW WAR EVENTS MAP NEXT TO AGRICULTURAL)
 
 <iframe class="plot_ani" src="assets/plots/war-events.html"></iframe>
@@ -56,15 +62,15 @@ What immediately caught our eyes is the completely different localization of the
 Our best explanation for the increased production is therefore linked to internal migration. As the situation in the cities worsened, people fled to the safer eastern areas, where they devoted themselves to agriculture. Our guess is substantiated by various sources:
 
 
-1. CIA World Factbook. "CIA World Factbook: Lebanon: Refugees and internally displaced persons" (2012) accounting for approximately 76,000 people displaced within Lebanon;
-2. The increase in the value added by agriculture to GDP in absolute terms through the war years;
-3. the production curve getting more steep when the war got even tougher with Israel invasion in 1982;
+* CIA World Factbook. "CIA World Factbook: Lebanon: Refugees and internally displaced persons" (2012) accounting for approximately 76,000 people displaced within Lebanon;
+* The increase in the value added by agriculture to GDP in absolute terms through the war years;
+* The production curve getting more steep when the war got even tougher with Israel invasion in 1982;
 
 
 As stated by Atif Abdallah Kubursi in his work "Lebanon's Agricultural Potential: A Policy Analysis Matrix Approach" (McMaster University and Econometric Research limited), the "agricultural sector acted as a buffer sector which absorbed large numbers of people from the urban areas that sought refuge in the rural areas".
 
 ## What have we learned?
-In a very counterintuivite and special way, war has revitalized an intially weak sector. This is not to say that war are desiderable in any ways. It just served to show that in the overall Lebanese economy, agriculture was not exploited at its best. Unveiling this link and revealing the full potentiality of lebanese agriculture could turn into an insightful result for institutions: it could indicate an effective strategy for an overall economic development.
+In a very counterintuivite and special way, war has revitalized an intially weak sector. This is not to say that war are desiderable in any ways. It just served to show that in the overall Lebanese economy, agriculture was not exploited at its best. Unveiling this link and revealing the full potential of lebanese agriculture could turn into an insightful result for institutions: it could indicate an effective strategy for an overall economic development.
 
 ## How production changes
 
@@ -78,16 +84,4 @@ Indeed, the graph above convinced us that something has changed, but not everyth
 But fruit productions such as bananas, lemons, olives, lose more than one position in favour of potatoes, tomatoes and cucumbers. This is not a surprise as the latter are more nutricious food, hence more suitable in a war context.
 
 ## Why production changes
-To give a sensible explanation of those changes, we should take into account another important kind of data: import/export. During war years, the import doesn't show any major changes, while export gets reduced. Therefore we could infer that the growing agricultural production serves mainly to satisfy the internal demand. If this tendency stabilized with time, this could result into indipendence from massive import from other developed countries. As a consequence, Lebanon's agriculture could improve even more.
-
-*Pellis qui* alto est quos! Illa meta **comes temptat**. Patruo *suum adnuit*,
-occupat esse equus permulcet motusque multum **pater** tamen.
-
-Discedens longo, quandoquidem coepit supremis litore sinit; si toto legit, suo
-Luna pampineis me. Sedent Phoebi odorato labitur, [et iussit
-sic](http://quisquislatronis.com/) admissum nocte moderator nescio non aras
-undique.
-
-<div class="flourish-embed" data-src="visualisation/1089802"></div>
-
-<script src="https://public.flourish.studio/resources/embed.js"></script>
+To give a sensible explanation of those changes, we should take into account another important kind of data: import/export. During war years, the import doesn't show any major changes, while export gets reduced. Therefore we could infer that the growing agricultural production serves mainly to satisfy the internal demand. If this tendency stabilized with time, this could result into independence from massive import from other developed countries. As a consequence, Lebanon's agriculture could improve even more.
