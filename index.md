@@ -58,14 +58,7 @@ Here's approximative distribution of war events over the Lebanese surface. Next 
 (SHOW WAR EVENTS MAP NEXT TO AGRICULTURAL)
 
 
-<div class="box">
-    <iframe class="plot_ani" src="assets/plots/war-events.html"></iframe>
-</div>
-<div class="box">
-    <iframe class="plot_map" src="assets/plots/map-agri-leb.html"></iframe>
-</div>
-
-<div class="clear"></div>
+<iframe class="plot_ani" src="assets/plots/map-agri-war-leb.html"></iframe>
 
 
 What immediately caught our eyes is the completely different localization of the two phenomena. The civil war mainly affected the urban area, especially the capital Beirut that by itself host more than half the population of Lebanon. On the other hand, the productive area of the country is located in the fertile Beqaa's valleys.
