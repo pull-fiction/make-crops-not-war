@@ -73,9 +73,36 @@ Our best explanation for the increased production is therefore linked to interna
 
 * CIA World Factbook. "CIA World Factbook: Lebanon: Refugees and internally displaced persons" (2012) accounting for approximately 76,000 people displaced within Lebanon;
 * The increase in the value added by agriculture to GDP in absolute terms through the war years;
-|       | 1973 | 1974 | 1985 | 1988 | 1990 |
-|-------|------|------|------|------| -----|
-| Share of agriculture to GDP | 9 % | 9% | 15% | 20% | 23% |
+<table>
+<colgroup>
+<col width="40%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Year</th>
+<th>1973</th>
+<th>1974</th>
+<th>1985</th>
+<th>1988</th>
+<th>1990</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th markdown="span"><font size="4">Share of agriculture to GDP</font></th>
+<td markdown="span">9%</td>
+<td markdown="span">9%</td>
+<td markdown="span">15%</td>
+<td markdown="span">20%</td>
+<td markdown="span">23%</td>
+</tr>
+</tbody>
+</table>
 * The production curve getting more steep when the war got even tougher with Israel invasion in 1982;
 
 As stated by Atif Abdallah Kubursi in his work "Lebanon's Agricultural Potential: A Policy Analysis Matrix Approach" (McMaster University and Econometric Research limited), the "agricultural sector acted as a buffer sector which absorbed large numbers of people from the urban areas that sought refuge in the rural areas".
