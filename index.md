@@ -18,7 +18,8 @@ to see how production changes and, consequently, trace back food consumption at 
 
 ## How war tastes around the world
 
-
+So we'll continue our investigation country-wise. We let you find out for yourselves not only the countries involved in war, but also how their conflicts "tasted like" in terms of agricultural production. Prepare to be surprised.
+(SHOW GRAPH WITH DROP DOWN)
 
 These last 60 years have been the most peaceful time our world has ever experienced. But did you know we have had XXXXX wars? The graph below shows the evolution of total crop production of each country. Years of conflict are displayed as red.
 
@@ -26,14 +27,11 @@ These last 60 years have been the most peaceful time our world has ever experien
 
 Clearly, different countries exhibit wildly different behaviours while there are conflicts within their territory. In order to get a global view of the effects of war on a countries crop production, let’s take a look at a normalized yearly rate of change in crop production for each country on one plot.Every dot is a country; on the X-axis there's average rates of change of crop production in wartime; on the Y-axis, instead, the rate of change in peace. The rates of change are shown in pourcentages to allow for a more fair comparison.
 
-(SHOW SCATTER PLOT)
+<iframe class="plot" src="assets/plots/crop-rate.html"></iframe>
 
 As expected, during peace, the majority of countries experience positive crop production growth. However, the obtained result during times of war is quite unexpected, isn't it? Although one would be led to believe that a country’s crop production would generally decrease in periods of conflict within its boundaries, this is not always the case. The rates during periods of conflict are substantially polarized (between -4% and +4%). Surprisingly, some countries experience more crop production growth during conflicts than during peace.
 
 It is clear from this graph that every country has its own history, size, resources, population, and every generalization would be too coarse-grained.
-
-So we'll continue our investigation country-wise. We let you find out for yourselves not only the coutries involved in war, but also how their conflits "tasted like" in terms of agricultural production. Prepare to be surprised.
-(SHOW GRAPH WITH DROP DOWN)
 
 ## A case study: Lebanon
 
