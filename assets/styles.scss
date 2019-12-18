@@ -91,6 +91,15 @@ $monospacetype: (
   overflow-y: scroll;
 }
 
+.box {
+  width: 50%;
+  float: left;
+}
+
+.clear {
+  clear: both;
+}
+
 // Font import, if you're using a non-standard web font
 @import url("https://fonts.googleapis.com/css?family=Bitter&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap");
