@@ -57,7 +57,7 @@ The scope of our research is not to give an exaustive description of the war eve
 
 In the following plot, it is possibile to see where the main events of Lebanese Civil War happened year-by-year. Not only, the underlying green graph shows an overall distribution of agricultural production.
 
-<iframe class="plot_ani" src="assets/plots/map-agri-war-leb.html"></iframe>
+<iframe class="plot_ani" src="assets/plots/map-agri-war-leb2.html"></iframe>
 
 What immediately caught our eyes is the completely different localization of the two phenomena. The civil war mainly affected the urban area, especially the capital Beirut that by itself host more than half the population of Lebanon. On the other hand, the productive area of the country is located in the fertile Beqaa's valleys.
 
@@ -140,4 +140,3 @@ After the war those cultivations are still and don’t experience major changes.
 ## What have we learned?
 
 Although our analysis is not general, it has served to shown that along with deaths and destructions, war can also bring major changes in people's everyday life. It can not only invade your country, but also and more remarkably your personal sphere, causing you to take decisions you wouldn't have taken otherwise. In Lebanon case, it has also cause people orienting their eating habits towards a differnt, more basic diet.
-
