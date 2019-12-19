@@ -7,14 +7,15 @@ feature_text:
 
 ## War is served
 
-How war changes agriculture production? How does it change the way you eat?
+What are the effects of war agriculture production? How does it change the way you eat?
 
-History textbooks clearly describe how wars affect a country's economy, social structure and politics. What has not been studied to the same extent is the impact on agricultural production. This aspect intrigues us, as it pervades citizens' life deeply, affecting the most basic need: eating.
-In order to unveil this subtle link, we will use different data sources:
+History textbooks clearly describe how wars affect a country's economy, social structure and politics. However, the impacts on agricultural production have not been studied to the same extent. We are intrigued by this, as it concerns a fundamental necessity to survival: food. We will attempt to shed some light on this question through an analysis of data obtained from the following sources:
 
 * Global Food & Agriculture Statistics.
 * Uppsala Conflict Data Program/PRIO Armed Conflict Dataset.
 * Wikidata Query Service.
+
+We will begin by exploring the data on a global level to seek general correlations before delving deeper into a specific case study. Armed conflicts are extremely complex and unique in an unlimited number of ways; it is simply impossible to fully grasp the impacts of war on each country with a global overview. Through an in depth case study, we aim to provide one example of how an armed conflict can impact a country's agriculture. This analysis will help us visualize the sheer magnitude of factors that can potentially come into play when dealing with wars.
 
 We are going to explore how production changes and, consequently, trace back food consumption at wartime. Follow us along, you'll discover that worldwide, even in dark times, food is and remains the most valuable social good.
 
@@ -31,9 +32,9 @@ First, it is possible to observe a plot that allows to get a global view of the 
 
 <iframe class="plot" src="assets/plots/crop-rate.html"></iframe>
 
-As expected, during peace, the majority of countries experience positive crop production growth. However, the obtained result during times of war is quite unexpected. Although one would be led to believe that a country’s crop production would generally decrease in periods of conflict within its boundaries, this is not always the case. The rates during periods of conflict are substantially polarized (between -4% and +4%). Surprisingly, some countries experience more crop production growth during conflicts than during peace.
+As expected, during peace, the majority of countries experience positive crop production growth. However, the obtained result during times of war is quite unexpected. One would be led to believe that a country’s crop production would generally decrease in periods of conflict within its boundaries. The rates during periods of conflict are substantially polarized (between -4% and +4%). Interestingly, the countries with negative growth rates during conflicts are mainly countries that have not experienced many years in war. It is possible that countries that are more frequently in conflict have developed better strategies to protect their agricultural production.
 
-It is clear from this graph that every country has its own history, size, resources, population, and every generalization would be too coarse-grained.
+
 
 So we will continue our investigation country-wise.
 These last 60 years have been the most peaceful time our world has ever experienced. But did you know we have had XXXXX wars? The plot below shows the evolution of total crop production of each country. The years during which a country was in conflict are displayed in red.
