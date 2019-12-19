@@ -7,28 +7,20 @@ feature_text:
 
 ## War is served
 
-How war changes the way you eat?
+How war changes agriculture production? How does it change the way you eat?
 
-History textbooks clearly describe how wars affect a country is economy, social structure and politics. What has not been studied to the same extent is the impact on agricultural production. This aspect intrigues us, as it pervades citizen is life deeply, affecting the most basic need: eating.
-In order to unveil this subtle link, we will have made use of different data sources:
+History textbooks clearly describe how wars affect a country's economy, social structure and politics. What has not been studied to the same extent is the impact on agricultural production. This aspect intrigues us, as it pervades citizens' life deeply, affecting the most basic need: eating.
+In order to unveil this subtle link, we will use different data sources:
 
 * Global Food & Agriculture Statistics.
 * Uppsala Conflict Data Program/PRIO Armed Conflict Dataset.
 * Wikidata Query Service.
 
-We are going to explore how production changes and, consequently, trace back food consumption at wartime. Follow us along, you'll discover that worldwide, even in dark time, food is and remains the most valuable social good.
+We are going to explore how production changes and, consequently, trace back food consumption at wartime. Follow us along, you'll discover that worldwide, even in dark times, food is and remains the most valuable social good.
 
 ## How war tastes around the world
 
-So we will continue our investigation country-wise. We let you find out for yourselves not only the countries involved in war, but also how their conflicts "tasted like" in terms of agricultural production. Prepare to be surprised.
-
-These last 60 years have been the most peaceful time our world has ever experienced. But did you know we have had XXXXX wars? The plot below shows the evolution of total crop production of each country. The years during which a country was in conflict are displayed in red.
-
-<iframe class="plot" src="assets/plots/crops-vs-year.html"></iframe>
-
-Clearly, different countries exhibit wildly different behaviours while there are conflicts within their territory. Even the very same country has very different trends in different wars (like, for example, Afghanistan, it is possibile to check it on the plot above).
-
-Next, it is possible to observe a plot that allows to get a global view of the effects of war on countries crop production. It is possible to read it in this way:
+First, it is possible to observe a plot that allows to get a global view of the effects of war on countries crop production. It is possible to read it in this way:
 
 * every dot represents a country that has had war in its territory;
 * on the X-axis there's the average rate of change of crop production in wartime;
@@ -43,6 +35,14 @@ As expected, during peace, the majority of countries experience positive crop pr
 
 It is clear from this graph that every country has its own history, size, resources, population, and every generalization would be too coarse-grained.
 
+So we will continue our investigation country-wise.
+These last 60 years have been the most peaceful time our world has ever experienced. But did you know we have had XXXXX wars? The plot below shows the evolution of total crop production of each country. The years during which a country was in conflict are displayed in red.
+We let you find out for yourselves not only the countries involved in war, but also how their conflicts "tasted like" in terms of agricultural production. Prepare to be surprised.
+
+<iframe class="plot" src="assets/plots/crops-vs-year.html"></iframe>
+
+Clearly, different countries exhibit wildly different behaviours while there are conflicts within their territory. Even the very same country has very different trends in different wars (like, for example, Afghanistan, it is possibile to check it on the plot above).
+
 ## A case study: Lebanon
 
 From your brief analysis, you might have seen something really bizarre. We have too.
@@ -51,11 +51,11 @@ We got particularly curious about Lebanon. This little Middle-east country has s
 
 ## The background
 
-The scope of our research is not to give an exaustive description of the war events, nor their cause. For our aim, it suffices to say that for 15 years, a country already proven by etnhical, religious and political divisions that had to suffer the fight of more than 22 different militias. This, together with the external ingerence from Syria, Israel, Palestine, has led to approximately 120.000 fatalities.
+The scope of our research is not to give an exaustive description of the war events, nor their cause. For our aim, it suffices to say that for 15 years, a country already proven by etnhical, religious and political divisions,  had to also suffer the fight between more than 22 different militias. This, together with the external ingerence from Syria, Israel, Palestine, has led to approximately 120.000 fatalities.
 
 ## The setting
 
-In the following plot, it is possibile to see how, in 1998, agricultural production varied in different lebanon regions, and where the main events of Lebanese Civil War happened year-by-year.
+In the following plot, it is possibile to see where the main events of Lebanese Civil War happened year-by-year. Not only, the underlying green graph shows an overall distribution of agricultural production.
 
 <iframe class="plot_ani" src="assets/plots/map-agri-war-leb.html"></iframe>
 
@@ -65,14 +65,14 @@ Now, it is possibile to see the trend of the population in Beirut, between 1950 
 
 <iframe class="plot" src="assets/plots/beirut-population.html"></iframe>
 
-It is quite clear that during the war, not only the positive trend stopped with the war, but it turned to negative after 5 years from the beginning.
+It is quite clear that not only the positive trend stopped with the war, but it turned to negative after 5 years from the beginning.
 
 ## Why production increases
 
-Our best explanation for the increased production is therefore linked to internal migration. As the situation in the cities worsened, people fled to the safer eastern areas, where they devoted themselves to agriculture. Our explanation is substantiated by various sources:
+Our best explanation for the increased production is therefore linked to internal migration. As the situation in the cities worsened, some people emigrate, but others fled to the safer eastern areas, where they devoted themselves to agriculture. Our explanation is substantiated by various sources:
 
 * CIA World Factbook. "CIA World Factbook: Lebanon: Refugees and internally displaced persons" (2012) accounting for approximately 76,000 people displaced within Lebanon;
-* The increase in the value added by agriculture to GDP in absolute terms through the war years;
+* The increase in the value added by agriculture to GDP through the war years;
 <table>
 <colgroup>
 <col width="40%" />
