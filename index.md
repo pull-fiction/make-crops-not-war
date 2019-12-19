@@ -46,6 +46,9 @@ Clearly, different countries exhibit wildly different behaviours while there are
 ## A case study: Lebanon
 
 From your brief analysis, you might have seen something really bizarre. We have too.
+
+<iframe class="plot" src="assets/plots/leb-crops-vs-year.html"></iframe>
+
 We got particularly curious about Lebanon. This little Middle-east country has suffered quite a brutal civil war, and not a short one (1975-1990). Despite that, its production increases weirdly and remarkably during the conflict.
 (SHOW GRAPH OF LEBANON CROP)
 
@@ -72,6 +75,12 @@ It is quite clear that not only the positive trend stopped with the war, but it 
 Our best explanation for the increased production is therefore linked to internal migration. As the situation in the cities worsened, some people emigrate, but others fled to the safer eastern areas, where they devoted themselves to agriculture. Our explanation is substantiated by various sources:
 
 * CIA World Factbook. "CIA World Factbook: Lebanon: Refugees and internally displaced persons" (2012) accounting for approximately 76,000 people displaced within Lebanon;
+
+
+<iframe class="plot_map" src="assets/plots/map-infra-leb.html"></iframe>
+
+
+
 * The increase in the value added by agriculture to GDP through the war years;
 <table>
 <colgroup>
