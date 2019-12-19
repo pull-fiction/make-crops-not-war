@@ -39,7 +39,7 @@ So we will continue our investigation country-wise.
 These last 60 years have been the most peaceful time our world has ever experienced. But did you know we have had XXXXX wars? The plot below shows the evolution of total crop production of each country. The years during which a country was in conflict are displayed in red.
 We let you find out for yourselves not only the countries involved in war, but also how their conflicts "tasted like" in terms of agricultural production. Prepare to be surprised.
 
-<iframe class="plot" src="assets/plots/crops-vs-year.html"></iframe>
+<iframe class="plot" src="assets/plots/crops-vs-year2.html"></iframe>
 
 Clearly, different countries exhibit wildly different behaviours while there are conflicts within their territory. Even the very same country has very different trends in different wars (like, for example, Afghanistan, it is possibile to check it on the plot above).
 
@@ -58,9 +58,9 @@ The scope of our research is not to give an exaustive description of the war eve
 
 ## The setting
 
-In the following plot, it is possibile to see where the main events of Lebanese Civil War happened year-by-year. Not only, the underlying green graph shows an overall distribution of agricultural production.
+In the following plot, it is possible to see where the main events of Lebanese Civil War happened year-by-year. Not only, the underlying green graph shows an overall distribution of agricultural production.
 
-<iframe class="plot_ani" src="assets/plots/map-agri-war-leb2.html"></iframe>
+<iframe class="plot_ani" src="assets/plots/map-agri-war-leb3.html"></iframe>
 
 What immediately caught our eyes is the completely different localization of the two phenomena. The civil war mainly affected the urban area, especially the capital Beirut that by itself host more than half the population of Lebanon. On the other hand, the productive area of the country is located in the fertile Beqaa's valleys.
 
@@ -77,7 +77,7 @@ Our best explanation for the increased production is therefore linked to interna
 * CIA World Factbook. "CIA World Factbook: Lebanon: Refugees and internally displaced persons" (2012) accounting for approximately 76,000 people displaced within Lebanon;
 
 
-<iframe class="plot_map" src="assets/plots/map-infra-leb.html"></iframe>
+<iframe class="plot_map" src="assets/plots/map-infra-leb2.html"></iframe>
 
 
 
