@@ -24,7 +24,7 @@ First, it is possible to observe a plot that allows to get a global view of the 
 
 * every dot represents a country that has had war in its territory;
 * on the X-axis there's the average rate of change of crop production in wartime;
-* on the Y-axis, instead, the average rate of change in peace;
+* on the Y-axis, instead, the average rate of change of crop production in peace;
 * the production is normalized according to both country size and population to allow a more fair comparison;
 * the rates of change are shown in percentages;
 * the color represents the number of years in war.
@@ -109,19 +109,35 @@ As stated by Atif Abdallah Kubursi in his work "Lebanon's Agricultural Potential
 
 ## What have we learned?
 
-In a very counterintuivite and special way, war has revitalized an intially weak sector. This is not to say that war are desiderable in any ways. It just served to show that in the overall Lebanese economy, agriculture was not exploited at its best. Unveiling this link and revealing the full potential of lebanese agriculture could turn into an insightful result for institutions: it could indicate an effective strategy for an overall economic development.
+In a very counterintuitive and special way, war has revitalized an intially weak sector. This is not to say that war are desiderable in any ways. It just served to show that in the overall Lebanese economy, agriculture was not exploited at its best. Unveiling this link and revealing the full potential of lebanese agriculture could turn into an insightful result for institutions: it could indicate an effective strategy for an overall economic development.
 
 ## How production changes
 
 We'll get now in even more detail. Just knowing that the production increase is not enough. How does it change? All the different crops change in the same way, to the same amount?
 
-<div class="flourish-embed" data-src="visualisation/1089802"></div>
+Here is a graph depicting the growth, given in percentage, of different kind of crops through the war years. For the sake of clarity,only the most produced crops have been selected. Moreover, to overcome the noise introduced by the natural crop cyclic variation, our analysis would be quinquennial.
 
+<div class="flourish-embed" data-src="visualisation/1121702"></div>
 <script src="https://public.flourish.studio/resources/embed.js"></script>
 
-Indeed, the graph above convinced us that something has changed, but not everything. The main crops for which lebanon is globally reknown, namely oranges, apples and grape still hold the podium throughout the war.
-But fruit productions such as bananas, lemons, olives, lose more than one position in favour of potatoes, tomatoes and cucumbers. This is not a surprise as the latter are more nutricious food, hence more suitable in a war context.
+If we first look at the score graph, there’s already something surprising:
+* Potatoes have catch up oranges, tomatoes have catch up apples;
+* Cucumber are growing quite fast while sugar beet is decreasing;
+The rank graph is even more interesting. For each year studied, it shows the top crops produces. We can appreciate that
+* Most of the crops preserved their relative position
+* Potatoes gained a good 9 positions!
+* Onions ranked a bit better, and obtained a position in the top 10 crops produced
+* Lemons and olives performances are declining
+* Sugar beet, once the second most produced crops, at the end of the war is not even in the 10 ten!
+
 
 ## Why production changes
 
-To give a sensible explanation of those changes, we should take into account another important kind of data: import/export. During war years, the import doesn't show any major changes, while export gets reduced. Therefore we could infer that the growing agricultural production serves mainly to satisfy the internal demand. If this tendency stabilized with time, this could result into independence from massive import from other developed countries. As a consequence, Lebanon's agriculture could improve even more.
+Considering that all these changes did not result in a enhanced export, we suppose that indeed, they mainly affected internal consumption. In particular, we observe that Lebanon agriculture slightly changed.
+Before the war the sector deeply relied on citrus fruits and typical Mediterranean cultivations such as olives, oranges, apples, lemons.
+After the war those cultivations are still and don’t experience major changes. In fact all of the above are trees and therefore human labour cannot really have an impact on  their production. What can experience changes are, instead, cultivated crops. From the previous analysis we can appreciate that potatoes, tomatoes, cucumber, onions are all preferred over sugar beet. What all of this  crops have in common? They are easy to produce, eat and store, as well as highly nutritious. They suit better, therefore, in a poor war scenario.
+
+## What have we learned?
+
+Although our analysis is not general, it has served to shown that along with deaths and destructions, war can also bring major changes in people's everyday life. It can not only invade your country, but also and more remarkably your personal sphere, causing you to take decisions you wouldn't have taken otherwise. In Lebanon case, it has also cause people orienting their eating habits towards a differnt, more basic diet.
+
