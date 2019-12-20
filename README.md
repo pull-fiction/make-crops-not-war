@@ -4,7 +4,7 @@ Milestone 3 update.
 
 - Data story: [https://pull-fiction.github.io/make-crops-not-war/](https://pull-fiction.github.io/make-crops-not-war/)
 
-- Notebook: [project.html](project.ipynb)
+- Notebook: [project.html](project.html)
 
 Our data story has been tested on Firefox and Chrome, on 13" and 15" laptops.
 
