@@ -15,19 +15,11 @@ History textbooks clearly describe how wars affect a country's economy, social s
 * [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page).
 * [Lebanon Historical Conflict Mapping and Analysis](https://civilsociety-centre.org/ictj/map/hist/map) by Civil Society Knowledge Centre.
 
-We will begin by exploring the data on a **global level** to seek general correlations before diving deeper into a specific **case study**. Armed conflicts are extremely complex and unique in an unlimited number of ways; it is simply impossible to fully grasp the impacts of war on each country with a global overview. Through an in depth case study, we aim to provide one example of how an armed conflict can impact a country's agriculture. This analysis will help us grasp the sheer magnitude of factors that can potentially come into play when dealing with wars.
-
-We are going to explore **how production changes** and, consequently, trace back **food consumption** at wartime. *Follow us along, you'll discover that worldwide, even in dark times, food is and remains the most valuable social good.* **<-- Not sure about this sentence. +1**
+We will begin by exploring the data on a **global level** to seek general correlations before diving deeper into a specific **case study**. Armed conflicts are extremely complex and unique in an unlimited number of ways; it is simply impossible to fully grasp the impacts of war on each country with a global overview. Through an in depth case study, we aim to provide one example of how an armed conflict can impact a country's agriculture. This analysis will help us grasp the sheer magnitude of factors that can potentially come into play when dealing with wars. We are going to explore **how production changes** and, consequently, trace back **food consumption** at wartime.
 
 ## A first general overview
 
-To begin, let's take a look at agricultural production growth during periods of conflict and compare them with periods of peace. The following plot illustrates this relationship by using the growth rate during peace on the Y-axis and the rate during war on the X-axis. Each dot represents a country and the color of the dots shows the total amount of years the countries has been in conflict during the timeframe our data. It should be noted that countries who have not experienced conflicts within their territories are not being considered in this plot. **HERE DO WE WANT TO USE TEXT OR LIST TO DESCRIBE THE PLOT? I (E.) think that the description above could be enough**
-
-* Every dot represents a country that has had war in its territory;
-* On the X-axis there's the average rate of change of crop production in wartime;
-* On the Y-axis, instead, the average rate of change of crop production in peace;
-* The rates of change are shown in percentages;
-* The color represents the number of years in war.
+To begin, let's take a look at agricultural production growth during periods of conflict and compare them with periods of peace. The following plot illustrates this relationship by using the growth rate during peace on the Y-axis and the rate during war on the X-axis. Each dot represents a country and the color of the dots shows the total amount of years the countries has been in conflict during the timeframe our data. It should be noted that countries who have not experienced conflicts within their territories are not being considered in this plot.
 
 <iframe class="plot" src="assets/plots/crop-rate.html"></iframe>
 
@@ -75,7 +67,7 @@ Clearly, rural areas stand out, with percentages of buildings dating back to war
 
 Moreover, according to the *CIA World Factbook* [^7], in 2012 there were still 76,000 people internally displaced, due to the Civil War.
 
-From the following table  [^8], we can also observe how the **percentage of Lebanon's GDP represented by agriculture** doubles during the war years, suggesting that working people potentially moved to agriculture from other econonomic sectors.
+From the following table [^8], we can also observe how the **percentage of Lebanon's GDP represented by agriculture** doubles during the war years (in red), suggesting that working people potentially moved to agriculture from other econonomic sectors.
 
 | Year                        | 1973 | 1974 | 1985 | 1988 | 1990 |
 |-----------------------------|:----:|:----:|:----:|:----:|:----:|
