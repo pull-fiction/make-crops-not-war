@@ -12,7 +12,7 @@ Milestone 3 update.
 - Maksim Kriukov: data exploration, specific crops production changes, production change motivations
 - Simona Leserri: data exploration, specific crops production changes, production change motivations
 
-The analysis has been done jointly be everyone with equal contributions.
+The analysis has been done jointly by everyone with equal contributions.
 
 ## Abstract
 
