@@ -100,6 +100,10 @@ $monospacetype: (
   clear: both;
 }
 
+.flourish-container {
+  height: 600px;
+}
+
 // Font import, if you're using a non-standard web font
 @import url("https://fonts.googleapis.com/css?family=Bitter&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap");
