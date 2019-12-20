@@ -62,23 +62,23 @@ What immediately caught our eyes is the disconnect between areas of heavy agricu
 
 ## Our theory...
 
-We believe that the increased production is linked to **internal migration**. As the situation in the cities worsened, some people emigrated out of the country [^5], but others fled to the safer eastern areas, where they had to join the agricultural workforce. It is unlikely that the growth in production can be explained by technological improvements, especially during a civil war where governmental funding would likely be focused in other areas. Hence, it is our opinion that the rise in agricultural output is directly linked to the increase in labor in the sector.
+We believe that the increased production is linked to **internal migration**. As the situation in the cities worsened, some people emigrated out of the country [^4], but others fled to the safer eastern areas, where they had to join the agricultural workforce. It is unlikely that the growth in production can be explained by technological improvements, especially during a civil war where governmental funding would likely be focused in other areas. Hence, it is our opinion that the rise in agricultural output is directly linked to the increase in labor in the sector.
 
-Here is the trend of the **population in Beirut**, between 1950 until today.
+Here is the trend of the **population in Beirut** [^5], between 1950 until today.
 
 <iframe class="plot" src="assets/plots/beirut-population.html"></iframe>
 
 There is a clear change in trend during the years of the civil war as the upward trend completely stops and even decreases during the second half of the war. The return to normal levels of growth directly after the war strongly indicates that the conflict was responsible for this shift in trends.
 
-The following map displays the percentage of **buildings erected** that were erected during the years of the war [^4]. This data was taken in 2007??.
+The following map displays the percentage of **buildings erected** that were erected during the years of the war [^6]. This data was taken in 2007??.
 
 <iframe class="plot_map" src="assets/plots/map-infra-leb2.html"></iframe>
 
 Clearly, rural areas stand out, with percentages of new buildings reaching up to 52%, suggesting the **need of infrastructure for the growing population of these areas**.
 
-Moreover, according to the *CIA World Factbook* [^6], in 2012 there were still 76,000 people internally displaced, due to the Civil War.
+Moreover, according to the *CIA World Factbook* [^7], in 2012 there were still 76,000 people internally displaced, due to the Civil War.
 
-From the following table  [^7], we can also observe how the **percentage of Lebanon's GDP represented by agriculture** doubles during the war years, suggesting that working people potentially moved to agriculture from other econonomic sectors.
+From the following table  [^8], we can also observe how the **percentage of Lebanon's GDP represented by agriculture** doubles during the war years, suggesting that working people potentially moved to agriculture from other econonomic sectors.
 
 | Year                        | 1973 | 1974 | 1985 | 1988 | 1990 |
 |-----------------------------|:----:|:----:|:----:|:----:|:----:|
@@ -86,7 +86,7 @@ From the following table  [^7], we can also observe how the **percentage of Leba
 
 <br>
 
-As stated by Atif Abdallah Kubursi in his work *"Lebanon's Agricultural Potential: A Policy Analysis Matrix Approach"* (McMaster University and Econometric Research limited), the "agricultural sector acted as a **buffer sector** which absorbed large numbers of people from the urban areas that sought refuge in the rural areas" [^8].
+As stated by Atif Abdallah Kubursi in his work *"Lebanon's Agricultural Potential: A Policy Analysis Matrix Approach"* (McMaster University and Econometric Research limited), the "agricultural sector acted as a **buffer sector** which absorbed large numbers of people from the urban areas that sought refuge in the rural areas" [^9].
 
 ## How production changes
 
@@ -114,7 +114,7 @@ The **rank** graph is even more interesting. For each year studied, it shows the
 
 ## Why production changes
 
-Considering that these changes did not result in a enhanced **export** [9 ADD IMPORT/EXPORT IMAGE AS SOURCE], we suppose that, indeed, they mainly affected internal consumption. In particular, we observe that Lebanon agriculture **slightly changed**.
+Considering that these changes did not result in a enhanced **export** [^10]  ADD IMPORT/EXPORT IMAGE AS SOURCE, we suppose that, indeed, they mainly affected internal consumption. In particular, we observe that Lebanon agriculture **slightly changed**.
 
 Before the war, the agricultural sector deeply relied on citrus fruits and **typical Mediterranean cultivations** such as olives, oranges, apples, lemons. After the war, those cultivations are still there and don’t experience major changes. In fact, all of the above are **trees** and therefore human labour cannot really have an impact on their production. What can experience changes are, instead, **cultivated crops**. From the previous analysis, we can appreciate that potatoes, tomatoes, cucumber, and onions are all preferred over sugar beet. What all of this crops have in common? They are **easy to produce, eat and store**, as well as **highly nutritious**. They suit better, therefore, in a poor war scenario.
 
@@ -140,12 +140,14 @@ Secondly, although our analysis is not general, it helped to shown that along wi
 
 [^4]: From "Atlas du Liban: Territoires et société" by Éric Verdeil, Ghaleb Faour and Sébastien Velut. Institut français du Proche-Orient /CNRS Liban (2007).
 
-[^5]: "Things Fall Apart: Containing the Spillover from an Iraqi Civil War" By Daniel Byman, Kenneth Michael Pollack, Page. 139
+[^5]: [Beirut Population](http://worldpopulationreview.com/world-cities/beirut-population/)
 
-[^6]: CIA World Factbook. "CIA World Factbook: Lebanon: Refugees and internally displaced persons". CIA World Factbook, 10 September 2012.
+[^6]: "Things Fall Apart: Containing the Spillover from an Iraqi Civil War" By Daniel Byman, Kenneth Michael Pollack, Page. 139
 
-[^7]: Bank of Lebanon, Central Statistical Office Annual Reports and Anahar Lebanese statistics, various issues
+[^7]: CIA World Factbook. "CIA World Factbook: Lebanon: Refugees and internally displaced persons". CIA World Factbook, 10 September 2012.
 
-[^8]: Atif Abdallah Kubursi "Lebanon's Agricultural Potential: A Policy Analysis Matrix Approach"* (McMaster University and Econometric Research limited)
+[^8]: Bank of Lebanon, Central Statistical Office Annual Reports and Anahar Lebanese statistics, various issues
 
-[^9]
+[^9]: Atif Abdallah Kubursi "Lebanon's Agricultural Potential: A Policy Analysis Matrix Approach"* (McMaster University and Econometric Research limited)
+
+[^10]: COOL PLOT HERE
