@@ -128,7 +128,7 @@ In a very counterintuitive and special way, war has revitalized an intially weak
 
 We will get now in even more detail. Just knowing that the production increase is not enough. How does it change? All the different crops change in the same way, to the same amount?
 
-Here is a graph depicting the growth, given in percentage, of different kind of crops through the war years. For the sake of clarity,only the most produced crops have been selected and a min-max normalization as been applied. Moreover, to overcome the noise introduced by the natural crop cyclic variation, our analysis would be quinquennial.
+Here is a graph depicting the growth, given in percentage, of different kind of crops through the war years. For the sake of clarity,only the most produced crops have been selected and a min-max normalization has been applied. Moreover, to overcome the noise introduced by the natural crop cyclic variation, our analysis would be quinquennial.
 
 <div class="flourish-embed" data-src="visualisation/1121702"></div>
 <script src="https://public.flourish.studio/resources/embed.js"></script>
@@ -154,4 +154,4 @@ After the war those cultivations are still and don’t experience major changes.
 
 ## What have we learned?
 
-Although our analysis is not general, it has served to shown that along with deaths and destructions, war can also bring major changes in people's everyday life. It can not only invade your country, but also and more remarkably your personal sphere, causing you to take decisions you wouldn't have taken otherwise. In Lebanon case, it has also cause people orienting their eating habits towards a differnt, more basic diet.
+Although our analysis is not general, it has served to shown that along with deaths and destructions, war can also bring major changes in people's everyday life. It can not only invade your country, but also and more remarkably your personal sphere, causing you to take decisions you wouldn't have taken otherwise. In Lebanon case, it has also cause people orienting their eating habits towards a different, more basic diet.
