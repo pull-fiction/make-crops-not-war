@@ -99,11 +99,7 @@ In a very counterintuitive and special way, war has revitalized an intially weak
 
 We will get now in even more detail, as just knowing that the production increased is not enough. How does it change? Do all the different crops change in the same way, to the same amount?
 
-<<<<<<< HEAD
 Here is a graph depicting the growth, given in percentage, of different kind of crops through the war years. For the sake of clarity, only the most produced crops have been selected and a min-max normalization as been applied. Moreover, to overcome the noise introduced by the natural crop cyclic variation, the plot is on a quinquennial base.
-=======
-Here is a graph depicting the growth, given in percentage, of different kind of crops through the war years. For the sake of clarity,only the most produced crops have been selected and a min-max normalization has been applied. Moreover, to overcome the noise introduced by the natural crop cyclic variation, our analysis would be quinquennial.
->>>>>>> 95cf0cb89e5d9f2e9d87302391c65683f9d2f14c
 
 <iframe src='https://public.flourish.studio/visualisation/1121702/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/1121702/?utm_source=embed&utm_campaign=visualisation/1121702' target='_top' style='text-decoration:none!important'><img alt='Products viz' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
