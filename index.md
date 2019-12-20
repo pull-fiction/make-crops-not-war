@@ -136,13 +136,13 @@ Although our analysis is not general, it helped to shown that along with deaths 
 
 [^1]: From "Atlas du Liban: Territoires et société" by Éric Verdeil, Ghaleb Faour and Sébastien Velut. Institut français du Proche-Orient /CNRS Liban (2007). The maps refers to year 1998, but we assumed no major changes to the quality of soil, nor to the environmental and climatic factors would have occured during the war. Therefore, it is still coherent with our analysis.
 
-[^2]: [^Beirut population](https://en.wikipedia.org/wiki/Beirut)
+[^2]: [Beirut population](https://en.wikipedia.org/wiki/Beirut) on Wikipedia.
 
-[^3]: [Lebanon population](https://en.wikipedia.org/wiki/Lebanon)
+[^3]: [Lebanon population](https://en.wikipedia.org/wiki/Lebanon) on Wikipedia.
 
 [^4]: From "Atlas du Liban: Territoires et société" by Éric Verdeil, Ghaleb Faour and Sébastien Velut. Institut français du Proche-Orient /CNRS Liban (2007).
 
-[^5]: [Beirut Population](http://worldpopulationreview.com/world-cities/beirut-population/)
+[^5]: [Beirut Population Data](http://worldpopulationreview.com/world-cities/beirut-population/) on World Population Review.
 
 [^6]: "Things Fall Apart: Containing the Spillover from an Iraqi Civil War" By Daniel Byman, Kenneth Michael Pollack, Page. 139
 
