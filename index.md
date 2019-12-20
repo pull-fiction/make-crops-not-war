@@ -55,15 +55,15 @@ The scope of our research is not to give an exaustive description of the war eve
 
 ## The setting
 
-In the following plot, it is possible to see **where the main events of Lebanese Civil War happened** year-by-year. Not only, the underlying green graph shows an overall **distribution of agricultural production** in the different regions. The darker the colour, the more surface is dedicated to agriculture (given in hectares).
+In the following plot, it is possible to see **where the main events of Lebanese Civil War happened** year-by-year. Not only, the underlying green graph shows an overall **distribution of agricultural production** in the different regions. The darker the colour, the more surface is dedicated to agriculture (given in hectares)[1].
 
 <iframe class="plot_ani" src="assets/plots/map-agri-war-leb3.html"></iframe>
 
-What immediately caught our eyes is the completely **different localization of the two phenomena**. The civil war mainly affected the urban area, especially the capital Beirut whose urban area, by itself, nowadays hosts more than one third of the population of Lebanon. On the other hand, the productive area of the country is located in the fertile Beqaa's valleys.
+What immediately caught our eyes is the completely **different localization of the two phenomena**. The civil war mainly affected the urban area, especially the capital Beirut whose urban area, by itself, nowadays hosts more than one third of the population of Lebanon[2][3]. On the other hand, the productive area of the country is located in the fertile Beqaa's valleys.
 
 ## Why production increases
 
-Our best explanation for the increased production is therefore linked to **internal migration**. As the situation in the cities worsened, some people emigrated out of the country, but others fled to the safer eastern areas, where they devoted themselves to agriculture.
+Our best explanation for the increased production is therefore linked to **internal migration**. As the situation in the cities worsened, some people emigrated out of the country[5], but others fled to the safer eastern areas, where they devoted themselves to agriculture.
 
 The following two graphs help us better visualize what was happening in the urban and rural area, respectively.
 
@@ -73,15 +73,15 @@ Here is the trend of the **population in Beirut**, between 1950 until today.
 
 It is quite clear that not only the positive trend stopped with the war, but it turned to negative after 5 years from the beginning.
 
-In the following plot, we show the percentage of **new buildings erected** during the years of the war.
+In the following plot, we show the percentage of **new buildings erected** during the years of the war[4].
 
 <iframe class="plot_map" src="assets/plots/map-infra-leb2.html"></iframe>
 
 Clearly, rural areas stand out, with percentages of new buildings reaching 52%, suggesting the **need of houses for people moving there**.
 
-Moreover, according to the *CIA World Factbook*, in 2012 there were still 76,000 people internally displaced, due to the Civil War.
+Moreover, according to the *CIA World Factbook*[6], in 2012 there were still 76,000 people internally displaced, due to the Civil War.
 
-From the following table [SOURCE], we can also observe how the **percentage of Lebanon's GDP represented by agriculture** doubles during the war years, meaning that working people moved to agriculture from other econonomic sectors.
+From the following table [7], we can also observe how the **percentage of Lebanon's GDP represented by agriculture** doubles during the war years, meaning that working people moved to agriculture from other econonomic sectors.
 
 | Year                        | 1973 | 1974 | 1985 | 1988 | 1990 |
 |-----------------------------|:----:|:----:|:----:|:----:|:----:|
@@ -89,7 +89,7 @@ From the following table [SOURCE], we can also observe how the **percentage of L
 
 <br>
 
-As stated by Atif Abdallah Kubursi in his work *"Lebanon's Agricultural Potential: A Policy Analysis Matrix Approach"* (McMaster University and Econometric Research limited), the "agricultural sector acted as a **buffer sector** which absorbed large numbers of people from the urban areas that sought refuge in the rural areas".
+As stated by Atif Abdallah Kubursi in his work *"Lebanon's Agricultural Potential: A Policy Analysis Matrix Approach"* (McMaster University and Econometric Research limited), the "agricultural sector acted as a **buffer sector** which absorbed large numbers of people from the urban areas that sought refuge in the rural areas"[8].
 
 ## What have we learned?
 
@@ -102,7 +102,10 @@ We will get now in even more detail, as just knowing that the production increas
 Here is a graph depicting the **growth**, given in percentage, of **different kind of crops** through the war years.
 To scale the production of different crops we used the *MinMax transformation* for all the crops that do not have missing values during 1975-1990. After that we picked only top-10 crops in the boundary years for the sake of clarity. Hence, the scores on the Y-axis indicates the percentage of the specific crop production relative to the maxim value (Orange production in 1990). Moreover, to overcome the noise introduced by the natural crop cyclic variation, the plot is on a *quinquennial base*.
 
+
 <iframe src='https://public.flourish.studio/visualisation/1121702/embed' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/1121702/?utm_source=embed&utm_campaign=visualisation/1121702' target='_top' style='text-decoration:none!important'><img alt='Products viz' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
+<div class="flourish-embed" data-src="visualisation/1126355"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 If we first look at the **score** graph, there’s already something worth noting:
 
@@ -119,7 +122,7 @@ The **rank** graph is even more interesting. For each year studied, it shows the
 
 ## Why production changes
 
-Considering that these changes did not result in a enhanced **export** [ADD IMPORT/EXPORT IMAGE AS SOURCE], we suppose that, indeed, they mainly affected internal consumption. In particular, we observe that Lebanon agriculture **slightly changed**.
+Considering that these changes did not result in a enhanced **export** [9 ADD IMPORT/EXPORT IMAGE AS SOURCE], we suppose that, indeed, they mainly affected internal consumption. In particular, we observe that Lebanon agriculture **slightly changed**.
 
 Before the war, the agricultural sector deeply relied on citrus fruits and **typical Mediterranean cultivations** such as olives, oranges, apples, lemons. After the war, those cultivations are still there and don’t experience major changes. In fact, all of the above are **trees** and therefore human labour cannot really have an impact on their production. What can experience changes are, instead, **cultivated crops**. From the previous analysis, we can appreciate that potatoes, tomatoes, cucumber, and onions are all preferred over sugar beet. What all of this crops have in common? They are **easy to produce, eat and store**, as well as **highly nutritious**. They suit better, therefore, in a poor war scenario.
 
@@ -129,4 +132,22 @@ Although our analysis is not general, it helped to shown that along with deaths 
 
 ## References
 
-[1] CIA World Factbook.
+[1] From "Atlas du Liban: Territoires et société" by Éric Verdeil, Ghaleb Faour and Sébastien Velut. Institut français du Proche-Orient /CNRS Liban (2007). 
+The maps refers to year 1998, but we assumed no major changes to the quality of soil, nor to the environmental and climatic factors would have occured during the war. Therefore, it is still coherent with our analysis.
+
+[2][Beirut population](https://en.wikipedia.org/wiki/Beirut)
+
+[3][Lebanon population](https://en.wikipedia.org/wiki/Lebanon)
+
+[4]From "Atlas du Liban: Territoires et société" by Éric Verdeil, Ghaleb Faour and Sébastien Velut. Institut français du Proche-Orient /CNRS Liban (2007).
+
+[5] "Things Fall Apart: Containing the Spillover from an Iraqi Civil War" By Daniel Byman, Kenneth Michael Pollack, Page. 139
+
+[6]CIA World Factbook. "CIA World Factbook: Lebanon: Refugees and internally displaced persons". CIA World Factbook, 10 September 2012.
+
+[7] Bank of Lebanon, Central Statistical Office Annual Reports and Anahar Lebanese statistics, various issues
+
+[8]Atif Abdallah Kubursi "Lebanon's Agricultural Potential: A Policy Analysis Matrix Approach"* (McMaster University and Econometric Research limited)
+
+[9]
+
