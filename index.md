@@ -9,27 +9,27 @@ feature_text:
 
 What are the effects of war on agriculture production? How does it change the way you eat?
 
-History textbooks clearly describe how wars affect a country's economy, social structure and politics. However, the impact on agricultural production have not been studied to the same extent. We are intrigued by this, as it concerns a fundamental necessity for survival: **food**. We will attempt to shed some light on this question through an analysis of data mainly obtained from the following sources:
+History textbooks clearly describe how wars affect a country's economy, social structure and politics. However, the impact on agricultural production has not been studied to the same extent. We are intrigued by this, as it concerns a fundamental necessity for survival: **food**. We will attempt to shed some light on these question through an analysis of data mainly obtained from the following sources:
 
 * [Global Food & Agriculture Statistics](http://www.fao.org/faostat/en/#data).
 * [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page).
 * [Lebanon Historical Conflict Mapping and Analysis](https://civilsociety-centre.org/ictj/map/hist/map) by Civil Society Knowledge Centre.
 
-We will begin by exploring the data on a **global level** to seek general correlations before diving deeper into a specific **case study**. Armed conflicts are extremely complex and unique in an unlimited number of ways; it is simply impossible to fully grasp the impacts of war on each country with a global overview. Through an in depth case study, we aim to provide one example of how an armed conflict can impact a country's agriculture. This analysis will help us grasp the sheer magnitude of factors that can potentially come into play when dealing with wars. We are going to explore **how production changes** and, consequently, trace back **food consumption** at wartime.
+We will begin by exploring the data on a **global level** to seek general correlations before diving deeper into a specific **case study**. Armed conflicts are extremely complex and unique in an unlimited number of ways; it is simply impossible to fully grasp the impacts of war on each country with a global overview. Through an in-depth case study, we aim to provide one example of how an armed conflict can impact a country's agriculture. This analysis will help us grasp the sheer magnitude of factors that can potentially come into play when dealing with wars. We are going to explore **how production changes** and, consequently, trace back **food consumption** at wartime.
 
 ## A first general overview
 
-To begin, let's take a look at agricultural production growth during periods of conflict and compare them with periods of peace. The following plot illustrates this relationship by using the growth rate during peace on the Y-axis and the rate during war on the X-axis. Each dot represents a country and the color of the dots shows the total amount of years the countries has been in conflict during the timeframe our data. It should be noted that countries who have not experienced conflicts within their territories are not being considered in this plot.
+To begin, let's take a look at agricultural production growth during periods of conflict and compare them with periods of peace. The following plot illustrates this relationship by using the growth rate during peace on the Y-axis and the rate during war on the X-axis. Each dot represents a country and the color of the dots shows the total amount of years the countries has been in conflict during the timeframe of our data. It should be noted that countries who have not experienced conflicts within their territories are not being considered in this plot.
 
 <iframe class="plot" src="assets/plots/crop-rate.html"></iframe>
 
 As expected, the majority of countries experience positive crop production growth during peaceful periods. In contrast, the rates during periods of conflict are quite unexpected. Interestingly, the countries with negative growth rates during conflicts are mainly countries that have not endured many years in war. It is possible that countries that are more frequently in conflict have developed better strategies to protect their agricultural production.
 
-Now, let's continue our investigation country-wise. These last 60 years have been the most peaceful time our world has ever experienced. Did you know we have had 111 wars? The plot below shows the **evolution of total crop production** of each country. The years during which a country was in conflict are displayed in red.
+Now, let's continue our investigation country-wise. These last 60 years have been the most peaceful time our world has ever experienced. Did you know we have had **111 wars**? The plot below shows the evolution of total crop production of each country. The years during which a country was in conflict are displayed in red.
 
 <iframe class="plot" src="assets/plots/crops-vs-year4.html"></iframe>
 
-Clearly, different countries exhibit **remarkably different behaviours**. Even the very same country might very different trends in different wars (like, for example, Afghanistan: you can check it on the plot above).
+Clearly, different countries exhibit **remarkably different behaviours**. Even the very same country may have very different trends in different wars (like, for example, Afghanistan: you can check it on the plot above).
 
 ## A case study: Lebanon
 
@@ -47,7 +47,7 @@ In order to determine what may have caused the agricultural production to rise, 
 
 <iframe class="plot_ani" src="assets/plots/map-agri-war-leb5.html"></iframe>
 
-What immediately caught our eyes is the evident distinction between areas of heavy agricultural production and those of battles. The civil war mainly affected the urban areas, especially the capital Beirut. Nowadays, Beirut hosts more than one third of the population of Lebanon [^2,^3] and we suspect there was a similar distribution before the war. On the other hand, the most productive area of the country is located in the valleys of Beqaa, where almost no event have taken place.
+What immediately caught our eyes is the evident distinction between areas of heavy agricultural production and those of battles. The civil war mainly affected the urban areas, especially the capital Beirut. Nowadays, Beirut hosts more than one third of the population of Lebanon [^2][^3] and we suspect there was a similar distribution before the war. On the other hand, the most productive area of the country is located in the valleys of Beqaa, where almost no event have taken place.
 
 ## Why does production increase?
 
@@ -79,10 +79,10 @@ As stated by Atif Abdallah Kubursi in his work *"Lebanon's Agricultural Potentia
 
 ## How production changes
 
-We will get now in even more detail, as just knowing that the production increased is not enough. How does it change? Do all the different crops change in the same way, to the same amount?
+We will get now in even more detail, analyzing how production changes. Do all the different crops change in the same way, to the same amount?
 
 Here is a plot depicting the **growth**, given in percentage, of **different kind of crops** through the war years.
-To scale the production of different crops we used the *MinMax transformation* for all the crops that do not have missing values during 1975-1990. This means that the crop with the highest production has a value of 1, and the others are represented as a percentage of it. After that we picked only top-10 crops in the boundary years for the sake of clarity. Hence, the scores on the Y-axis indicates the percentage of the specific crop production relative to the maxim value (Orange production in 1990). Moreover, to overcome the noise introduced by the natural crop cyclic variation, the plot is on a *quinquennial base*.
+To scale the production of different crops we used the *MinMax transformation* for all the crops that do not have missing values during 1975-1990. This means that the crop with the highest production has a value of 1, and the others are represented as a percentage of it. After that, we picked only top-10 crops in the boundary years for the sake of clarity. Hence, the scores on the Y-axis indicates the percentage of the specific crop production relative to the maxim value (Orange production in 1990). Moreover, to overcome the noise introduced by the natural crop cyclic variation, the plot is on a *quinquennial base*.
 
 
 <div class="flourish-embed" data-src="visualisation/1126355"></div>
@@ -107,20 +107,20 @@ As we can see from the plot below, the growth in production did not result in a 
 
 <iframe class="plot" src="assets/plots/export_lebanon_value.html"></iframe>
 
-Hence, we suppose that, indeed, they mainly affected internal consumption. In particular, we observe that Lebanon agriculture **slightly changed**.
+Hence, we suppose that, indeed, it mainly affected internal consumption. In particular, we observe that Lebanon agriculture **slightly changed**.
 
-Before the war, the agricultural sector deeply relied on citrus fruits and **typical Mediterranean cultivations** such as olives, oranges, apples, lemons. After the war, those cultivations are still there and don’t experience major changes. In fact, all of the above are **trees** and therefore human labor cannot really have an impact on their production. What can experience changes are, instead, **cultivated crops**. From the previous analysis, we can appreciate that potatoes, tomatoes, cucumber, and onions are all preferred over sugar beet. What all of this crops have in common? They are **easy to produce, eat and store**, as well as **highly nutritious**. They suit better, therefore, in a poor war scenario.
+Before the war, the agricultural sector deeply relied on citrus fruits and **typical Mediterranean cultivations** such as olives, oranges, apples, lemons. After the war, those cultivations are still there and don’t experience major changes. In fact, all of the above are **trees** and therefore human labor cannot really have an impact on their production. What can experience changes are, instead, **cultivated crops**. From the previous analysis, we can appreciate that potatoes, tomatoes, cucumber, and onions are all preferred over sugar beet. What all of these crops have in common? They are **easy to produce, eat and store**, as well as **highly nutritious**. They suit better, therefore, in a poor war scenario.
 
 ## What have we learned?
 
 In a unique way, war has revitalized an initially weak sector at the expense of others in Lebanon. This is not to say that wars are desirable in any way. It just served to show one example of how wars can impact the agricultural sector.
-We might indeed conclude that in the overall Lebanese economy, agriculture was **not exploited at its best**. Unveiling this link and revealing the full potential of lebanese agriculture could turn into an **insightful result** for the government: it could show an effective strategy for a general economic development.
+We might indeed conclude that in the overall Lebanese economy, agriculture was **not exploited at its best**. Unveiling this link and revealing the full potential of Lebanese agriculture could turn into an **insightful result** for the government: it could show an effective strategy for a general economic development.
 
-Secondly, although our analysis is not general, it helped to shown that along with deaths and destructions, war can also bring major changes in **people's everyday life**. It can not only invade your country, but also, and more remarkably, your personal sphere, causing you to take decisions you wouldn't have taken otherwise. In Lebanon case, it has also caused people **orienting their eating habits** towards a differnt, more basic diet.
+Secondly, although our analysis is not general, it helped to show that along with death and destruction, war can also bring major changes in **people's everyday life**. It can not only invade your country, but also, and more remarkably, your personal sphere, causing you to make decisions you wouldn't have made otherwise. In Lebanon's case, it has also caused people **orienting their eating habits** towards a different, more basic diet.
 
 ## References
 
-[^1]: From "Atlas du Liban: Territoires et société" by Éric Verdeil, Ghaleb Faour and Sébastien Velut. Institut français du Proche-Orient /CNRS Liban (2007). The maps refers to year 1998, but we assumed no major changes to the quality of soil, nor to the environmental and climatic factors would have occured during the war. Therefore, it is still coherent with our analysis.
+[^1]: From "Atlas du Liban: Territoires et société" by Éric Verdeil, Ghaleb Faour and Sébastien Velut. Institut français du Proche-Orient /CNRS Liban (2007).
 
 [^2]: [Beirut population](https://en.wikipedia.org/wiki/Beirut) on Wikipedia.
 
