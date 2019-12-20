@@ -23,11 +23,11 @@ To begin, let's take a look at agricultural production growth during periods of 
 
 <iframe class="plot" src="assets/plots/crop-rate.html"></iframe>
 
-As expected, the majority of countries experience positive crop production growth during peaceful periods. In contrast, the rates during periods of conflict are quite unexpected. As can be seen on the plot, countries tend to experience more extreme changes during times of conflict, whether it be growth or decline (**not sure about this**). Interestingly, the countries with negative growth rates during conflicts are mainly countries that have not endured many years in war. It is possible that countries that are more frequently in conflict have developed better strategies to protect their agricultural production.
+As expected, the majority of countries experience positive crop production growth during peaceful periods. In contrast, the rates during periods of conflict are quite unexpected. Interestingly, the countries with negative growth rates during conflicts are mainly countries that have not endured many years in war. It is possible that countries that are more frequently in conflict have developed better strategies to protect their agricultural production.
 
 Now, let's continue our investigation country-wise. These last 60 years have been the most peaceful time our world has ever experienced. Did you know we have had 111 wars? The plot below shows the **evolution of total crop production** of each country. The years during which a country was in conflict are displayed in red.
 
-<iframe class="plot" src="assets/plots/crops-vs-year2.html"></iframe>
+<iframe class="plot" src="assets/plots/crops-vs-year4.html"></iframe>
 
 Clearly, different countries exhibit **remarkably different behaviours**. Even the very same country might very different trends in different wars (like, for example, Afghanistan: you can check it on the plot above).
 
@@ -43,13 +43,13 @@ The scope of our research is not to give an exhaustive description of the war ev
 
 ## The setting
 
-In order to determine what may have caused the agricultural production to rise, we must first obtain a better understanding of Lebanon's agricultural land distribution. The following map shows the total hectares of land dedicated to agriculture in each of Lebanon's governates (1998?)[^1]. In addition, the locations of the **main events of Lebanese Civil War** have been overlayed onto the map.
+In order to determine what may have caused the agricultural production to rise, we must first obtain a better understanding of Lebanon's agricultural land distribution. The following map shows the total hectares of land dedicated to agriculture in each of Lebanon's governates (1998)[^1]. In addition, the locations of the **main events of Lebanese Civil War** have been overlayed onto the map.
 
-<iframe class="plot_ani" src="assets/plots/map-agri-war-leb3.html"></iframe>
+<iframe class="plot_ani" src="assets/plots/map-agri-war-leb5.html"></iframe>
 
 What immediately caught our eyes is the evident distinction between areas of heavy agricultural production and those of battles. The civil war mainly affected the urban areas, especially the capital Beirut. Nowadays, Beirut hosts more than one third of the population of Lebanon [^2,^3] and we suspect there was a similar distribution before the war. On the other hand, the most productive area of the country is located in the valleys of Beqaa, where almost no event have taken place.
 
-## Our theory...
+## Why does production increase?
 
 We believe that the increased production is linked to **internal migration**. As the situation in the cities worsened, some people emigrated out of the country [^4], but others fled to the safer eastern areas, where they had to join the agricultural workforce. It is unlikely that the growth in production can be explained by technological improvements, especially during a civil war where governmental funding would likely be focused in other areas. Hence, it is our opinion that the rise in agricultural output is directly linked to the increase in labor in the sector.
 
@@ -101,15 +101,15 @@ The **rank** graph is even more interesting. For each year studied, it shows the
 * *Lemons*, *apples* and *bananas* performances are declining
 * *Cucumbers* are ranking better
 
-## Why production changes
+## Why does production change?
 
 As we can see from the plot below, the growth in production did not result in a enhanced **export**.
 
-INSERT PLOT HERE
+<iframe class="plot" src="assets/plots/export_lebanon_value.html"></iframe>
 
 Hence, we suppose that, indeed, they mainly affected internal consumption. In particular, we observe that Lebanon agriculture **slightly changed**.
 
-Before the war, the agricultural sector deeply relied on citrus fruits and **typical Mediterranean cultivations** such as olives, oranges, apples, lemons. After the war, those cultivations are still there and don’t experience major changes. In fact, all of the above are **trees** and therefore human labour cannot really have an impact on their production. What can experience changes are, instead, **cultivated crops**. From the previous analysis, we can appreciate that potatoes, tomatoes, cucumber, and onions are all preferred over sugar beet. What all of this crops have in common? They are **easy to produce, eat and store**, as well as **highly nutritious**. They suit better, therefore, in a poor war scenario.
+Before the war, the agricultural sector deeply relied on citrus fruits and **typical Mediterranean cultivations** such as olives, oranges, apples, lemons. After the war, those cultivations are still there and don’t experience major changes. In fact, all of the above are **trees** and therefore human labor cannot really have an impact on their production. What can experience changes are, instead, **cultivated crops**. From the previous analysis, we can appreciate that potatoes, tomatoes, cucumber, and onions are all preferred over sugar beet. What all of this crops have in common? They are **easy to produce, eat and store**, as well as **highly nutritious**. They suit better, therefore, in a poor war scenario.
 
 ## What have we learned?
 
