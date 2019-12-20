@@ -55,15 +55,15 @@ The scope of our research is not to give an exaustive description of the war eve
 
 ## The setting
 
-In the following plot, it is possible to see **where the main events of Lebanese Civil War happened** year-by-year. Not only, the underlying green graph shows an overall **distribution of agricultural production** in the different regions. The darker the colour, the more surface is dedicated to agriculture (given in hectares)[1].
+In the following plot, it is possible to see **where the main events of Lebanese Civil War happened** year-by-year. Not only, the underlying green graph shows an overall **distribution of agricultural production** in the different regions. The darker the colour, the more surface is dedicated to agriculture (given in hectares) [^1].
 
 <iframe class="plot_ani" src="assets/plots/map-agri-war-leb3.html"></iframe>
 
-What immediately caught our eyes is the completely **different localization of the two phenomena**. The civil war mainly affected the urban area, especially the capital Beirut whose urban area, by itself, nowadays hosts more than one third of the population of Lebanon[2][3]. On the other hand, the productive area of the country is located in the fertile Beqaa's valleys.
+What immediately caught our eyes is the completely **different localization of the two phenomena**. The civil war mainly affected the urban area, especially the capital Beirut whose urban area, by itself, nowadays hosts more than one third of the population of Lebanon [^2] [^3]. On the other hand, the productive area of the country is located in the fertile Beqaa's valleys.
 
 ## Why production increases
 
-Our best explanation for the increased production is therefore linked to **internal migration**. As the situation in the cities worsened, some people emigrated out of the country[5], but others fled to the safer eastern areas, where they devoted themselves to agriculture.
+Our best explanation for the increased production is therefore linked to **internal migration**. As the situation in the cities worsened, some people emigrated out of the country [^5], but others fled to the safer eastern areas, where they devoted themselves to agriculture.
 
 The following two graphs help us better visualize what was happening in the urban and rural area, respectively.
 
@@ -73,15 +73,15 @@ Here is the trend of the **population in Beirut**, between 1950 until today.
 
 It is quite clear that not only the positive trend stopped with the war, but it turned to negative after 5 years from the beginning.
 
-In the following plot, we show the percentage of **new buildings erected** during the years of the war[4].
+In the following plot, we show the percentage of **new buildings erected** during the years of the war [^4].
 
 <iframe class="plot_map" src="assets/plots/map-infra-leb2.html"></iframe>
 
 Clearly, rural areas stand out, with percentages of new buildings reaching 52%, suggesting the **need of houses for people moving there**.
 
-Moreover, according to the *CIA World Factbook*[6], in 2012 there were still 76,000 people internally displaced, due to the Civil War.
+Moreover, according to the *CIA World Factbook* [^6], in 2012 there were still 76,000 people internally displaced, due to the Civil War.
 
-From the following table [7], we can also observe how the **percentage of Lebanon's GDP represented by agriculture** doubles during the war years, meaning that working people moved to agriculture from other econonomic sectors.
+From the following table  [^7], we can also observe how the **percentage of Lebanon's GDP represented by agriculture** doubles during the war years, meaning that working people moved to agriculture from other econonomic sectors.
 
 | Year                        | 1973 | 1974 | 1985 | 1988 | 1990 |
 |-----------------------------|:----:|:----:|:----:|:----:|:----:|
@@ -89,7 +89,7 @@ From the following table [7], we can also observe how the **percentage of Lebano
 
 <br>
 
-As stated by Atif Abdallah Kubursi in his work *"Lebanon's Agricultural Potential: A Policy Analysis Matrix Approach"* (McMaster University and Econometric Research limited), the "agricultural sector acted as a **buffer sector** which absorbed large numbers of people from the urban areas that sought refuge in the rural areas"[8].
+As stated by Atif Abdallah Kubursi in his work *"Lebanon's Agricultural Potential: A Policy Analysis Matrix Approach"* (McMaster University and Econometric Research limited), the "agricultural sector acted as a **buffer sector** which absorbed large numbers of people from the urban areas that sought refuge in the rural areas" [^8].
 
 ## What have we learned?
 
@@ -132,22 +132,21 @@ Although our analysis is not general, it helped to shown that along with deaths 
 
 ## References
 
-[1] From "Atlas du Liban: Territoires et société" by Éric Verdeil, Ghaleb Faour and Sébastien Velut. Institut français du Proche-Orient /CNRS Liban (2007). 
-The maps refers to year 1998, but we assumed no major changes to the quality of soil, nor to the environmental and climatic factors would have occured during the war. Therefore, it is still coherent with our analysis.
+[^1]: From "Atlas du Liban: Territoires et société" by Éric Verdeil, Ghaleb Faour and Sébastien Velut. Institut français du Proche-Orient /CNRS Liban (2007). The maps refers to year 1998, but we assumed no major changes to the quality of soil, nor to the environmental and climatic factors would have occured during the war. Therefore, it is still coherent with our analysis.
 
-[2][Beirut population](https://en.wikipedia.org/wiki/Beirut)
+[^2]: [^Beirut population](https://en.wikipedia.org/wiki/Beirut)
 
-[3][Lebanon population](https://en.wikipedia.org/wiki/Lebanon)
+[^3]: [Lebanon population](https://en.wikipedia.org/wiki/Lebanon)
 
-[4]From "Atlas du Liban: Territoires et société" by Éric Verdeil, Ghaleb Faour and Sébastien Velut. Institut français du Proche-Orient /CNRS Liban (2007).
+[^4]: From "Atlas du Liban: Territoires et société" by Éric Verdeil, Ghaleb Faour and Sébastien Velut. Institut français du Proche-Orient /CNRS Liban (2007).
 
-[5] "Things Fall Apart: Containing the Spillover from an Iraqi Civil War" By Daniel Byman, Kenneth Michael Pollack, Page. 139
+[^5]: "Things Fall Apart: Containing the Spillover from an Iraqi Civil War" By Daniel Byman, Kenneth Michael Pollack, Page. 139
 
-[6]CIA World Factbook. "CIA World Factbook: Lebanon: Refugees and internally displaced persons". CIA World Factbook, 10 September 2012.
+[^6]: CIA World Factbook. "CIA World Factbook: Lebanon: Refugees and internally displaced persons". CIA World Factbook, 10 September 2012.
 
-[7] Bank of Lebanon, Central Statistical Office Annual Reports and Anahar Lebanese statistics, various issues
+[^7]: Bank of Lebanon, Central Statistical Office Annual Reports and Anahar Lebanese statistics, various issues
 
-[8]Atif Abdallah Kubursi "Lebanon's Agricultural Potential: A Policy Analysis Matrix Approach"* (McMaster University and Econometric Research limited)
+[^8]: Atif Abdallah Kubursi "Lebanon's Agricultural Potential: A Policy Analysis Matrix Approach"* (McMaster University and Econometric Research limited)
 
-[9]
+[^9]
 

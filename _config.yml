@@ -23,34 +23,17 @@ plugins:
 url: 'https://pull-fiction.github.io'
 baseurl: '/make-crops-not-war'
 title: 'Make Crops, not War!'
-description: 'ADA 2019 Project data story'
+description: 'An ADA 2019 data story'
 permalink: pretty
+markdown: kramdown
 # logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
 
-# Header nav
-navigation_header:
-- title: Home
-  url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
 
 # Footer nav
 navigation_footer:
 - title: Back to top
   url: "#top"
-
-# Collections
-collections:
-  posts:
-    title: Posts
-    output: true
-    description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
