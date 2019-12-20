@@ -82,7 +82,7 @@ From the following table  [^7], we can also observe how the **percentage of Leba
 
 | Year                        | 1973 | 1974 | 1985 | 1988 | 1990 |
 |-----------------------------|:----:|:----:|:----:|:----:|:----:|
-| Share of agriculture to GDP |  9%  |  9%  |  15% |  20% |  23% |
+| Share of agriculture to GDP |  9%  |  9%  |  <span style="color:RGB(232,90,79)">15%</span> |  <span style="color:RGB(232,90,79)">20%</span> |  <span style="color:RGB(232,90,79)">23%</span> |
 
 <br>
 
