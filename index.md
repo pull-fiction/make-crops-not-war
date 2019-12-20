@@ -9,7 +9,7 @@ feature_text:
 
 What are the effects of war on agriculture production? How does it change the way you eat?
 
-History textbooks clearly describe how wars affect a country's economy, social structure and politics. However, the impact on agricultural production has not been studied to the same extent. We are intrigued by this, as it concerns a fundamental necessity for survival: **food**. We will attempt to shed some light on these question through an analysis of data mainly obtained from the following sources:
+History textbooks clearly describe how wars affect a country's economy, social structure and politics. However, the impact on agricultural production has not been studied to the same extent. We are intrigued by this, as it concerns a fundamental necessity for survival: **food**. We will attempt to shed some light on these questions through an analysis of data mainly obtained from the following sources:
 
 * [Global Food & Agriculture Statistics](http://www.fao.org/faostat/en/#data).
 * [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page).
