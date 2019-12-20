@@ -19,9 +19,7 @@ We will begin by exploring the data on a **global level** to seek general correl
 
 We are going to explore **how production changes** and, consequently, trace back **food consumption** at wartime. *Follow us along, you'll discover that worldwide, even in dark times, food is and remains the most valuable social good.* **<-- Not sure about this sentence. +1**
 
-## How war tastes around the world
-
-**↑ Maybe not the best title**
+## A first general overview
 
 To begin, let's take a look at agricultural production growth during periods of conflict and compare them with periods of peace. The following plot illustrates this relationship by using the growth rate during peace on the Y-axis and the rate during war on the X-axis. Each dot represents a country and the color of the dots shows the total amount of years the countries has been in conflict during the timeframe our data. It should be noted that countries who have not experienced conflicts within their territories are not being considered in this plot. **HERE DO WE WANT TO USE TEXT OR LIST TO DESCRIBE THE PLOT? I (E.) think that the description above could be enough**
 
@@ -122,8 +120,6 @@ Hence, we suppose that, indeed, they mainly affected internal consumption. In pa
 Before the war, the agricultural sector deeply relied on citrus fruits and **typical Mediterranean cultivations** such as olives, oranges, apples, lemons. After the war, those cultivations are still there and don’t experience major changes. In fact, all of the above are **trees** and therefore human labour cannot really have an impact on their production. What can experience changes are, instead, **cultivated crops**. From the previous analysis, we can appreciate that potatoes, tomatoes, cucumber, and onions are all preferred over sugar beet. What all of this crops have in common? They are **easy to produce, eat and store**, as well as **highly nutritious**. They suit better, therefore, in a poor war scenario.
 
 ## What have we learned?
-
-<iframe class="plot_img" src="assets/plots/potatoes.jpg"></iframe>
 
 In a unique way, war has revitalized an initially weak sector at the expense of others in Lebanon. This is not to say that wars are desirable in any way. It just served to show one example of how wars can impact the agricultural sector.
 We might indeed conclude that in the overall Lebanese economy, agriculture was **not exploited at its best**. Unveiling this link and revealing the full potential of lebanese agriculture could turn into an **insightful result** for the government: it could show an effective strategy for a general economic development.
