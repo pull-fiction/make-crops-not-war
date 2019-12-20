@@ -96,22 +96,21 @@ Here is a graph depicting the **growth**, given in percentage, of **different ki
 To scale the production of different crops we used the *MinMax transformation* for all the crops that do not have missing values during 1975-1990. After that we picked only top-10 crops in the boundary years for the sake of clarity. Hence, the scores on the Y-axis indicates the percentage of the specific crop production relative to the maxim value (Orange production in 1990). Moreover, to overcome the noise introduced by the natural crop cyclic variation, the plot is on a *quinquennial base*.
 
 
-</iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/1121702/?utm_source=embed&utm_campaign=visualisation/1121702' target='_top' style='text-decoration:none!important'><img alt='Products viz' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
-
 <div class="flourish-embed" data-src="visualisation/1126355"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
 If we first look at the **score** graph, there’s already something worth noting:
 
-* Potatoes have caught up oranges, tomatoes have caught up apples;
-* Cucumber are growing quite fast while sugar beet is decreasing;
+* *Potatoes* have caught up *grapes*, *tomatoes* have caught up *apples*
+* *Cucumber* are growing quite fast while *bananas* and *lemons* are almost stable
 
-The **rank** graph is even more interesting. For each year studied, it shows the top crops produces. We can appreciate that
+The **rank** graph is even more interesting. For each year studied, it shows the top crops produced. We can appreciate that
 
-* Most of the crops preserved their relative position
-* Potatoes gained a good 9 positions!
-* Onions ranked a bit better, and obtained a position in the top 10 crops produced
-* Lemons and olives performances are declining
-* Sugar beet, once the second most produced crops, at the end of the war is not even in the 10 ten!
+* Most of the crops preserved their relative position with *oranges* firmly holding the first position
+* *Potatoes* gained a good 7 positions!
+* *Onions* ranked a bit better, and finally obtained a position in the top 10 crops produced
+* *Lemons*, *apples* and *bananas* performances are declining
+* *Cucumbers* are ranking better
+
 
 ## Why production changes
 
@@ -123,11 +122,10 @@ Before the war, the agricultural sector deeply relied on citrus fruits and **typ
 
 <iframe class="plot_img" src="assets/plots/potatoes.jpg"></iframe>
 
-In a unique way, war has revitalized an initially weak sector at the expense of others in Lebanon. This is not to say that wars are desirable in any way. It just served to show one example of how wars can impact the overall agriculture sector.
+In a unique way, war has revitalized an initially weak sector at the expense of others in Lebanon. This is not to say that wars are desirable in any way. It just served to show one example of how wars can impact the agriculture sector.
+We might indeed conclude that in the overall Lebanese economy, agriculture was **not exploited at its best**. Unveiling this link and revealing the full potential of lebanese agriculture could turn into an **insightful result** for the government: it could show an effective strategy for a general economic development.
 
-that in the overall Lebanese economy, agriculture was **not exploited at its best**. Unveiling this link and revealing the full potential of lebanese agriculture could turn into an **insightful result** for the government: it could show an effective strategy for an overall economic development.
-
-Although our analysis is not general, it helped to shown that along with deaths and destructions, war can also bring major changes in **people's everyday life**. It can not only invade your country, but also, and more remarkably, your personal sphere, causing you to take decisions you wouldn't have taken otherwise. In Lebanon case, it has also caused people **orienting their eating habits** towards a differnt, more basic diet.
+Secondly, although our analysis is not general, it helped to shown that along with deaths and destructions, war can also bring major changes in **people's everyday life**. It can not only invade your country, but also, and more remarkably, your personal sphere, causing you to take decisions you wouldn't have taken otherwise. In Lebanon case, it has also caused people **orienting their eating habits** towards a differnt, more basic diet.
 
 
 
