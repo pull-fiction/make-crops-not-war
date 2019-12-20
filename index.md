@@ -7,9 +7,9 @@ feature_text:
 
 ## War is served
 
-What are the effects of war agriculture production? How does it change the way you eat?
+What are the effects of war on agriculture production? How does it change the way you eat?
 
-History textbooks clearly describe how wars affect a country's economy, social structure and politics. However, the impacts on agricultural production have not been studied to the same extent. We are intrigued by this, as it concerns a fundamental necessity to survival: food. We will attempt to shed some light on this question through an analysis of data obtained from the following sources:
+History textbooks clearly describe how wars affect a country's economy, social structure and politics. However, the impacts on agricultural production have not been studied to the same extent. We are intrigued by this, as it concerns a fundamental necessity for survival: food. We will attempt to shed some light on this question through an analysis of data obtained from the following sources:
 
 * Global Food & Agriculture Statistics.
 * Uppsala Conflict Data Program/PRIO Armed Conflict Dataset.
@@ -23,12 +23,12 @@ We are going to explore how production changes and, consequently, trace back foo
 
 First, it is possible to observe a plot that allows to get a global view of the effects of war on countries crop production. It is possible to read it in this way:
 
-* every dot represents a country that has had war in its territory;
-* on the X-axis there's the average rate of change of crop production in wartime;
-* on the Y-axis, instead, the average rate of change of crop production in peace;
-* the production is normalized according to both country size and population to allow a more fair comparison;
-* the rates of change are shown in percentages;
-* the color represents the number of years in war.
+* Every dot represents a country that has had war in its territory;
+* On the X-axis there's the average rate of change of crop production in wartime;
+* On the Y-axis, instead, the average rate of change of crop production in peace;
+* The production is normalized according to both country size and population to allow a more fair comparison;
+* The rates of change are shown in percentages;
+* The color represents the number of years in war.
 
 <iframe class="plot" src="assets/plots/crop-rate.html"></iframe>
 
@@ -37,7 +37,7 @@ As expected, during peace, the majority of countries experience positive crop pr
 
 
 So we will continue our investigation country-wise.
-These last 60 years have been the most peaceful time our world has ever experienced. But did you know we have had XXXXX wars? The plot below shows the evolution of total crop production of each country. The years during which a country was in conflict are displayed in red.
+These last 60 years have been the most peaceful time our world has ever experienced. But did you know we have had 111 wars? The plot below shows the evolution of total crop production of each country. The years during which a country was in conflict are displayed in red.
 We let you find out for yourselves not only the countries involved in war, but also how their conflicts "tasted like" in terms of agricultural production. Prepare to be surprised.
 
 <iframe class="plot" src="assets/plots/crops-vs-year2.html"></iframe>
@@ -51,7 +51,6 @@ From your brief analysis, you might have seen something really bizarre. We have 
 <iframe class="plot" src="assets/plots/leb-crops-vs-year.html"></iframe>
 
 We got particularly curious about Lebanon. This little Middle-east country has suffered quite a brutal civil war, and not a short one (1975-1990). Despite that, its production increases weirdly and remarkably during the conflict.
-(SHOW GRAPH OF LEBANON CROP)
 
 ## The background
 
@@ -59,28 +58,32 @@ The scope of our research is not to give an exaustive description of the war eve
 
 ## The setting
 
-In the following plot, it is possible to see where the main events of Lebanese Civil War happened year-by-year. Not only, the underlying green graph shows an overall distribution of agricultural production.
+In the following plot, it is possible to see where the main events of Lebanese Civil War happened year-by-year. Not only, the underlying green graph shows an overall distribution of agricultural production in the different regions. The darker the colour, the more surface is dedicated to agriculture (given in hundreds of hectares).
 
 <iframe class="plot_ani" src="assets/plots/map-agri-war-leb3.html"></iframe>
 
 What immediately caught our eyes is the completely different localization of the two phenomena. The civil war mainly affected the urban area, especially the capital Beirut that by itself host more than half the population of Lebanon. On the other hand, the productive area of the country is located in the fertile Beqaa's valleys.
 
-Now, it is possibile to see the trend of the population in Beirut, between 1950 until today.
+## Why production increases
+
+Our best explanation for the increased production is therefore linked to internal migration. As the situation in the cities worsened, some people emigrate, but others fled to the safer eastern areas, where they devoted themselves to agriculture.
+
+The following two graphs help us better visualize what was happening in the urban and rural area, respectively.
+
+Here is the trend of the population in Beirut, between 1950 until today.
 
 <iframe class="plot" src="assets/plots/beirut-population.html"></iframe>
 
 It is quite clear that not only the positive trend stopped with the war, but it turned to negative after 5 years from the beginning.
 
-## Why production increases
-
-Our best explanation for the increased production is therefore linked to internal migration. As the situation in the cities worsened, some people emigrate, but others fled to the safer eastern areas, where they devoted themselves to agriculture. Our explanation is substantiated by various sources:
-
-* CIA World Factbook. "CIA World Factbook: Lebanon: Refugees and internally displaced persons" (2012) accounting for approximately 76,000 people displaced within Lebanon;
-
+Moving to the rural area, it is interesting to notice this is the area where the growth of buildings erected during the war is more significant. 
 
 <iframe class="plot_map" src="assets/plots/map-infra-leb2.html"></iframe>
 
 
+ Our explanation is further substantiated by various sources:
+
+* CIA World Factbook. "CIA World Factbook: Lebanon: Refugees and internally displaced persons" (2012) accounting for approximately 76,000 people displaced within Lebanon;
 
 * The increase in the value added by agriculture to GDP through the war years;
 <table>
@@ -123,9 +126,9 @@ In a very counterintuitive and special way, war has revitalized an intially weak
 
 ## How production changes
 
-We'll get now in even more detail. Just knowing that the production increase is not enough. How does it change? All the different crops change in the same way, to the same amount?
+We will get now in even more detail. Just knowing that the production increase is not enough. How does it change? All the different crops change in the same way, to the same amount?
 
-Here is a graph depicting the growth, given in percentage, of different kind of crops through the war years. For the sake of clarity,only the most produced crops have been selected. Moreover, to overcome the noise introduced by the natural crop cyclic variation, our analysis would be quinquennial.
+Here is a graph depicting the growth, given in percentage, of different kind of crops through the war years. For the sake of clarity,only the most produced crops have been selected and a min-max normalization as been applied. Moreover, to overcome the noise introduced by the natural crop cyclic variation, our analysis would be quinquennial.
 
 <div class="flourish-embed" data-src="visualisation/1121702"></div>
 <script src="https://public.flourish.studio/resources/embed.js"></script>
@@ -133,7 +136,9 @@ Here is a graph depicting the growth, given in percentage, of different kind of 
 If we first look at the score graph, there’s already something surprising:
 * Potatoes have catch up oranges, tomatoes have catch up apples;
 * Cucumber are growing quite fast while sugar beet is decreasing;
+
 The rank graph is even more interesting. For each year studied, it shows the top crops produces. We can appreciate that
+
 * Most of the crops preserved their relative position
 * Potatoes gained a good 9 positions!
 * Onions ranked a bit better, and obtained a position in the top 10 crops produced
